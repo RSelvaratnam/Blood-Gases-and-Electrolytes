@@ -30,7 +30,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 ### Preanalytical Errors & Considerations
 
 <details>
-<summary><strong> $\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list 5.}}$</strong></summary>
+<summary> 
+   $\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list at least 5.}}$ 
+</summary>
 
 1. Mislabelling
 2. Air (bubble) in the sample. Ideally, anaerobic collection, *i.e.,* no exposure to air.
@@ -47,7 +49,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>Does air exposure lead to decreased or increased pCO₂? Why?</strong></summary>
+<summary><strong> 
+   $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pCO₂? Why?}}$
+</strong></summary>
 
 * CO₂ makes up 0.0407% of atmospheric air
 * Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = 0.309 mm Hg
