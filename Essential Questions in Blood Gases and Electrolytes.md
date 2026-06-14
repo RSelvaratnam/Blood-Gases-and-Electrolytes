@@ -30,7 +30,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 ### Preanalytical Errors & Considerations
 
 <details>
-<summary><strong>What are some preanalytical errors or concerns with blood gas measurements? Try to list 5.</strong></summary>
+<summary><strong> $\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list 5.}}$</strong></summary>
 
 1. Mislabelling
 2. Air (bubble) in the sample. Ideally, anaerobic collection, *i.e.,* no exposure to air.
