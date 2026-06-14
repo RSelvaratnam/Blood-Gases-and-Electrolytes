@@ -54,15 +54,17 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </strong></summary>
 
 * CO₂ makes up 0.0407% of atmospheric air
-* Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = 0.309 mm Hg
-* pCO₂ in the arterial blood ~ 40 mm Hg
-* Thus air leads to artificial decrease in blood pCO₂ (movement of gas from area of high concentration (blood) to area of low concentration (i.e., exposed air))
+* Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
+* pCO₂ in the arterial blood $\textcolor{red}{~40\ mmHg}$
+* Thus air leads to artificial decrease in blood pCO₂ (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
 * pH will increase (blood pH is partially a function of pCO₂)
 
 </details>
 
 <details>
-<summary><strong>Does air exposure lead to decreased or increased pO₂? Why?</strong></summary>
+<summary><strong>
+    $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pO₂? Why?}}$
+</strong></summary>
 
 * O₂ makes up 20.946% of atmospheric air
 * pO₂ in the air = 760 mm Hg X 0.20946% = 159.19 mm Hg
