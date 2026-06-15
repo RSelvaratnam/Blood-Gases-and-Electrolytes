@@ -34,17 +34,17 @@ A quick note about reference intervals. You should have a decent idea of the ref
    $\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list at least 5.}}$ 
 </summary>
 
-1. Mislabelling
-2. Air (bubble) in the sample. Ideally, anaerobic collection, *i.e.,* no exposure to air.
-3. Appropriate volume requirement
-4. Delay in analysis
-5. Incorrect Transport and/or Storage
-6. Insufficient Mixing (leads to clotted specimen)
-7. Wrong collection containers
-    * Concern here is insufficient heparin or dilution from liquid heparin
-8. No arterial line flush, or insufficient removal of flush solution
-9. Venous puncture during arterial sampling
-    * Important to identify arterial *vs*. venous *vs.* mixed venous for some analytes (e.g. pO₂).
+   1. Mislabelling
+   2. Air (bubble) in the sample. Ideally, anaerobic collection, *i.e.,* no exposure to air.
+   3. Appropriate volume requirement
+   4. Delay in analysis
+   5. Incorrect Transport and/or Storage
+   6. Insufficient Mixing (leads to clotted specimen)
+   7. Wrong collection containers
+       * Concern here is insufficient heparin or dilution from liquid heparin
+   8. No arterial line flush, or insufficient removal of flush solution
+   9. Venous puncture during arterial sampling
+       * Important to identify arterial *vs*. venous *vs.* mixed venous for some analytes (e.g. pO₂).
 
 </details>
 
@@ -52,12 +52,12 @@ A quick note about reference intervals. You should have a decent idea of the ref
 <summary><strong> 
    $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pCO₂? Why?}}$
 </strong></summary>
-
-* CO₂ makes up 0.0407% of atmospheric air
-* Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
-* pCO₂ in the arterial blood $\textcolor{red}{~40\ mmHg}$
-* Thus air leads to artificial decrease in blood pCO₂ (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
-* pH will increase (blood pH is partially a function of pCO₂)
+   
+   * CO₂ makes up 0.0407% of atmospheric air
+   * Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
+   * pCO₂ in the arterial blood $\textcolor{red}{~40\ mmHg}$
+   * Thus **air leads to artificial $\textcolor{blue}{decrease\ in\ blood\ pCO₂}$** (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
+   * pH will increase (blood pH is partially a function of pCO₂)
 
 </details>
 
@@ -66,36 +66,42 @@ A quick note about reference intervals. You should have a decent idea of the ref
     $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pO₂? Why?}}$
 </strong></summary>
 
-* O₂ makes up 20.946% of atmospheric air
-* pO₂ in the air = 760 mm Hg X 0.20946% = 159.19 mm Hg
-* pO₂ in the arterial blood ~ 80 - 100 mm Hg
-* pO₂ in the venous blood ~ 30 – 50 mm Hg
-* *Air leads to artificial increase in blood* (movement of gas from area of high concentration (air) to area of low concentration (i.e., blood))
-* pO₂ increases if initial pO₂ is less than that of ambient air (i.e. ~ 150 mmHg, 20kPa), and decreases if initial pO₂ is greater than that of ambient air (the latter case would only, of course, apply if the patient was receiving supplemental oxygen).
+   * O₂ makes up 20.946% of atmospheric air
+   * pO₂ in the air = 760 mm Hg X 0.20946% = 159.19 mm Hg
+   * pO₂ in the arterial blood ~ 80 - 100 mm Hg
+   * pO₂ in the venous blood ~ 30 – 50 mm Hg
+   * **Air leads to artificial increase in blood** (movement of gas from area of high concentration (air) to area of low concentration (i.e., blood))
+   * pO₂ increases if initial pO₂ is less than that of ambient air (i.e. ~ 150 mmHg, 20kPa), and decreases if initial pO₂ is greater than that of ambient air (the latter case would only, of course, apply if the patient was receiving supplemental oxygen).
 
 </details>
 
 <details>
-<summary><strong>Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?</strong></summary>
+<summary><strong>
+   $\color{darkorange}{\textsf{Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?}}$
+</strong></summary>
 
-1. Under-filling alters the intended Anticoagulant:Blood ratio
-2. Syringes are electrolyte balanced for an expected volume
-3. Prevent NSQ for analysis (NSQ = Not sufficient quantity)
-
-*Note:* While heparin is the anti-coagulant, heparin binds positively charged electrolytes (Na+ and iCa2+).
+   1. Under-filling alters the intended Anticoagulant:Blood ratio
+   2. Syringes are electrolyte balanced for an expected volume
+   3. Prevent NSQ for analysis (NSQ = Not sufficient quantity)
+   
+      **Note:** While heparin is the anti-coagulant, heparin binds positively charged electrolytes (Na+ and iCa2+).
 
 </details>
 
 <details>
-<summary><strong>What would happen if blood gas analysis were delayed?</strong></summary>
+<summary><strong>
+   $\color{darkorange}{\textsf{What would happen if blood gas analysis were delayed?}}$
+</strong></summary>
 
-1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2]. 
-    * *What happens to values in patients with myeloproliferative diseases with extreme leukocytosis or thrombocytosis. e.g. AML (Acute Myelogenous Leukemia)?*
-    * *Spuriously low pO₂ are possible, where the energy intensive WBC will consume O₂. So blood gas analysis should be done as soon as possible, especially in these patients.*
-2. Increased gas exchange (*i.e.* loss of O₂) through plastic walls [3].
-    * Glass syringes preserve pO₂ values better than plastic syringes (plastic syringes/containers are more common today, but have high oxygen permeability). Plastic syringes are used today because they are inexpensive, disposable, and not prone to breakage/shatter.
-    * Generally, the gas loss through plastic tubes is insignificant, if performed <40 minutes [3].
-    * Glass and plastic syringes are ~equivalent for pH and pCO₂.
+   1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2].
+      *  $\color{darkorange}{\textsf{What happens to pO₂ in myeloproliferative diseases with extreme leukocytosis or thrombocytosis. e.g. AML (Acute Myelogenous Leukemia)?}}$
+         * Spuriously low pO₂ are possible, where the energy intensive WBC will consume O₂. So blood gas analysis should be done as soon as possible, especially in these patients.
+      </details> 
+   3. Increased gas exchange (*i.e.* loss of O₂) through plastic walls [3].
+       * Glass syringes preserve pO₂ values better than plastic syringes (plastic syringes/containers are more common today, but have high oxygen permeability). Plastic syringes are used today because they are inexpensive, disposable, and not prone to breakage/shatter.
+       * Generally, the gas loss through plastic tubes is insignificant, if performed <40 minutes [3].
+       * Glass and plastic syringes are ~equivalent for pH and pCO₂.
+
 
 *References:*
 1. Kelman, G.; Nunn, J. Journal of Applied Physiology 1966, 21, 1484–1490.
