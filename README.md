@@ -117,7 +117,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 * Ice increases oxygen permeability in plastic tubes, leading to artificial increase in pO2.
    * Specifically, increase in $pO_2$ from exchange with air outside and decreased cellular metabolism
    * Verify your exchange rate for your tubes and various samples or scenarios as significant or not
-   * **Ideal Practice:**
+   * :+1: **Ideal Practice:**
       * Ice  can harm $pO_2$ stability, measure samples stored at room temp.
       * Recent study: < 40 minutes at room temperature
          * (Reference: [https://doi.org/10.1515/cclm-2022-1085](https://doi.org/10.1515/cclm-2022-1085))
