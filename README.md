@@ -94,11 +94,10 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </strong></summary>
 
    1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2].
-      *  $\color{darkorange}{\textsf{What happens to pO₂ in myeloproliferative diseases with extreme leukocytosis or thrombocytosis. e.g. AML (Acute Myelogenous Leukemia)?}}$
+      * $\color{green}{\textsf{What happens to pO₂ in myeloproliferative diseases with extreme leukocytosis/thrombocytosis (e.g. AML, Acute Myelogenous Leukemia)?}}$
          * Spuriously low pO₂ are possible, where the energy intensive WBC will consume O₂. So blood gas analysis should be done as soon as possible, especially in these patients.
-      </details> 
-   3. Increased gas exchange (*i.e.* loss of O₂) through plastic walls [3].
-       * Glass syringes preserve pO₂ values better than plastic syringes (plastic syringes/containers are more common today, but have high oxygen permeability). Plastic syringes are used today because they are inexpensive, disposable, and not prone to breakage/shatter.
+   2. Increased gas exchange (*i.e.* loss of O₂) through plastic walls [3].
+       * Glass syringes preserve **pO₂** values better than plastic syringes (plastic syringes/containers are more common today, but have high oxygen permeability). Plastic syringes are used today because they are inexpensive, disposable, and not prone to breakage/shatter.
        * Generally, the gas loss through plastic tubes is insignificant, if performed <40 minutes [3].
        * Glass and plastic syringes are ~equivalent for pH and pCO₂.
 
@@ -111,23 +110,48 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>Should samples be transported on ice? Or room temperature?</strong></summary>
+<summary><strong>
+    $\color{darkorange}{\textsf{Should samples be transported on ice? Or room temperature?}}$
+</strong></summary>
 
-*(Answer pending)*
+* Ice increases oxygen permeability in plastic tubes, leading to artificial increase in pO2.
+
+* Potassium is also subject to increase with prolonged (>1 hour) storage/transport on ice [1]
+
+   Why?
+  * Lowered temperatures inhibits red blood cells glycolysis, leading to decreased ATP production, which slows down the $Na^+/K^+$ ATPase pump that keeps the $K^+$ inside the cells. This leads to a “leaky” situation, (*i.e.* redistribution) , where more $K^+$ shifts from the intracellular fluid compartment to the extracellular fluid (plasma) compartment, thus increasing plasma $K^+$ [1].
+
+*References:*
+1. Zavorsky, G. S.; Wijk, X. M. van; Gasparyan, S.; Stollenwerk, N. S.; Brooks, R. A. The Journal of Applied Laboratory Medicine 2022, 7, 541–554.
 
 </details>
 
 <details>
-<summary><strong>Can you use a pneumatic transport system (PTS) to transfer the blood gas specimens to the central/core laboratory?</strong></summary>
+<summary><strong>
+   $\color{darkorange}{\textsf{Can you use a pneumatic transport system (PTS) to transfer the blood gas specimens to the central or core laboratory?}}$
+</strong></summary>
 
-*(Answer pending)*
+   * Depends on the stability of the pneumatic transport system (PTS).
+   * In some cases, experience and data suggests most PTS show no significant effect on pH and pCO2 [1]. However, pO2 can be affected if the sample is contaminated with the even tiny amounts of air.
+   * You will need to verify your own settings and continuously monitor for changes to showcase that equivalent and consistent results can be obtained by transport via PTS.
+   
+*References:*
+1. Pupek, A.; Matthewson, B.; Whitman, E.; Fullarton, R.; Chen, Y. Clinical Chemistry and Laboratory Medicine (CCLM) 2017, 55, 1537–1544.
 
 </details>
 
 <details>
-<summary><strong>Can vacutainers (evacuated tubes) be of use in blood gas measurements?</strong></summary>
+<summary><strong>
+   $\color{darkorange}{\textsf{Can vacutainers (evacuated tubes) be of use in blood gas measurements?}}$
+</strong></summary>
 
-*(Answer pending)*
+   * Not for pO2 or Oxygen saturation. General consensus and guidances from Clinical Laboratory Standards Institute recommend arterial blood gas samples be collected in syringes directly.
+   * For venous samples, evacuated tubes can potentially be used for pCO2, pH and other measurands, if you have data to support sufficiently equivalent results can be obtained. However, evacuated tubes are not completely vacuum; there is small amount of gas or residual air that can contaminate the results. Under-filled vacutainers create headspace or a void above the solution, enabling an equilibration between solution and gas phase, which also underlies the error[1].
+
+   * There is varying practices on the use evacuated tubes (vacutainers). However, data suggests vacutainers can lead to falsely high pH, pO2, and falsely low pCO2 [1].
+      
+*References:* 
+Tang, N.-Y.; Leanse, J. H.; Tesic, V.; Wijk, X. M. van. Clinica Chimica Acta 2020, 510, 671–674.
 
 </details>
 
