@@ -1,6 +1,7 @@
 # Essential Questions in Blood Gases and Electrolytes
 
 ## Preamble
+
 This book is written based on a culmination of questions from myself, students, trainees, and colleagues. The purpose of this question based approach is to enable students and trainees to evaluate their own understanding and grasp of materials.
 
 Note: If you’re using the PDF version of this book, it will not be updated frequently or be current as the online version.
@@ -8,22 +9,23 @@ Note: If you’re using the PDF version of this book, it will not be updated fre
 ---
 
 ## Reference Intervals
+
 A quick note about reference intervals. You should have a decent idea of the reference intervals for electrolytes and blood gases, which would be useful also for acid/bases problems (not covered here). For example, if I told you that we had a case of a patient with pCO₂ of 55 mm Hg from an arterial blood gas, you should be able to appreciate that such a level is relatively high or indicative of hypercapnia. Below are a set of reference intervals that one can use as a guide. Keep mind that reference intervals can vary due to instruments, demographics, blood source and other factors.
 
-| Analyte | Arterial Blood | Venous Blood | Units |
-| :--- | :--- | :--- | :--- |
-| pO₂ | 80 - 100 | 30 - 50 | mm Hg |
-| pH | 7.35 - 7.45 | 7.31 - 7.41 | |
-| ionized Calcium | 1.12 - 1.32 | 1.12 - 1.32 | mmol/L |
-| O₂ Saturation | 95 - 99 | 60 - 85 | % |
-| pCO₂ | 35 - 45 | 40 - 52 | mm Hg |
-| BE Calculated | 0 ± 2 | 1 ± 2 | mmol/L |
-| HCO₃⁻ | 23 - 28 | 22 - 28 | mmol/L |
-| Hemoglobin | M: 140 - 180<br>F: 120 - 160 | M: 140 - 180<br>F: 120 - 160 | g/L |
-| Methemoglobin | <2 | <2 | % |
-| Carboxyhemoglobin | Non-Smoker: <2<br>Smoker: <9<br>Toxic Range: >20 | Non-Smoker: <2<br>Smoker: <9<br>Toxic Range: >20 | % |
-| Glucose | 3.8 - 7.7 | 3.8 - 7.7 | mmol/L |
-| Lactate | 0.5 - 1.5 | 0.5 - 2.2 | mmol/L |
+| Analyte           | Arterial Blood                                           | Venous Blood                                             | Units  |
+| :---------------- | :------------------------------------------------------- | :------------------------------------------------------- | :----- |
+| pO₂              | 80 - 100                                                 | 30 - 50                                                  | mm Hg  |
+| pH                | 7.35 - 7.45                                              | 7.31 - 7.41                                              |        |
+| ionized Calcium   | 1.12 - 1.32                                              | 1.12 - 1.32                                              | mmol/L |
+| O₂ Saturation    | 95 - 99                                                  | 60 - 85                                                  | %      |
+| pCO₂             | 35 - 45                                                  | 40 - 52                                                  | mm Hg  |
+| BE Calculated     | 0 ± 2                                                   | 1 ± 2                                                   | mmol/L |
+| HCO₃⁻           | 23 - 28                                                  | 22 - 28                                                  | mmol/L |
+| Hemoglobin        | M: 140 - 180`<br>`F: 120 - 160                         | M: 140 - 180`<br>`F: 120 - 160                         | g/L    |
+| Methemoglobin     | <2                                                       | <2                                                       | %      |
+| Carboxyhemoglobin | Non-Smoker: <2`<br>`Smoker: <9`<br>`Toxic Range: >20 | Non-Smoker: <2`<br>`Smoker: <9`<br>`Toxic Range: >20 | %      |
+| Glucose           | 3.8 - 7.7                                                | 3.8 - 7.7                                                | mmol/L |
+| Lactate           | 0.5 - 1.5                                                | 0.5 - 2.2                                                | mmol/L |
 
 ---
 
@@ -34,17 +36,17 @@ A quick note about reference intervals. You should have a decent idea of the ref
    $\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list at least 5.}}$ 
 </summary>
 
-   1. Mislabelling
-   2. Air (bubble) in the sample. Ideally, anaerobic collection, *i.e.,* no exposure to air.
-   3. Appropriate volume requirement
-   4. Delay in analysis
-   5. Incorrect Transport and/or Storage
-   6. Insufficient Mixing (leads to clotted specimen)
-   7. Wrong collection containers
-       * Concern here is insufficient heparin or dilution from liquid heparin
-   8. No arterial line flush, or insufficient removal of flush solution
-   9. Venous puncture during arterial sampling
-       * Important to identify arterial *vs*. venous *vs.* mixed venous for some analytes (e.g. pO₂).
+1. Mislabelling
+2. Air (bubble) in the sample. Ideally, anaerobic collection, *i.e.,* no exposure to air.
+3. Appropriate volume requirement
+4. Delay in analysis
+5. Incorrect Transport and/or Storage
+6. Insufficient Mixing (leads to clotted specimen)
+7. Wrong collection containers
+   * Concern here is insufficient heparin or dilution from liquid heparin
+8. No arterial line flush, or insufficient removal of flush solution
+9. Venous puncture during arterial sampling
+   * Important to identify arterial *vs*. venous *vs.* mixed venous for some analytes (e.g. pO₂).
 
 </details>
 
@@ -52,12 +54,12 @@ A quick note about reference intervals. You should have a decent idea of the ref
 <summary> 
    $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pCO₂? Why?}}$
 </summary>
-   
-   * CO₂ makes up 0.0407% of atmospheric air
-   * Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
-   * pCO₂ in the arterial blood $\textcolor{red}{~40\ mmHg}$
-   * Thus **air leads to artificial $\textcolor{blue}{decrease\ in\ blood\ pCO₂}$** (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
-   * pH will increase (blood pH is partially a function of pCO₂)
+
+* CO₂ makes up 0.0407% of atmospheric air
+* Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
+* pCO₂ in the arterial blood $\textcolor{red}{~40\ mmHg}$
+* Thus **air leads to artificial $\textcolor{blue}{decrease\ in\ blood\ pCO₂}$** (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
+* pH will increase (blood pH is partially a function of pCO₂)
 
 </details>
 
@@ -66,25 +68,25 @@ A quick note about reference intervals. You should have a decent idea of the ref
     $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pO₂? Why?}}$
 </summary>
 
-   * O₂ makes up 20.946% of atmospheric air
-   * pO₂ in the air = 760 mm Hg X 0.20946% = 159.19 mm Hg
-   * pO₂ in the arterial blood ~ 80 - 100 mm Hg
-   * pO₂ in the venous blood ~ 30 – 50 mm Hg
-   * **Air leads to artificial increase in blood** (movement of gas from area of high concentration (air) to area of low concentration (i.e., blood))
-   * pO₂ increases if initial pO₂ is less than that of ambient air (i.e. ~ 150 mmHg, 20kPa), and decreases if initial pO₂ is greater than that of ambient air (the latter case would only, of course, apply if the patient was receiving supplemental oxygen).
+* O₂ makes up 20.946% of atmospheric air
+* pO₂ in the air = 760 mm Hg X 0.20946% = 159.19 mm Hg
+* pO₂ in the arterial blood ~ 80 - 100 mm Hg
+* pO₂ in the venous blood ~ 30 – 50 mm Hg
+* **Air leads to artificial increase in blood** (movement of gas from area of high concentration (air) to area of low concentration (i.e., blood))
+* pO₂ increases if initial pO₂ is less than that of ambient air (i.e. ~ 150 mmHg, 20kPa), and decreases if initial pO₂ is greater than that of ambient air (the latter case would only, of course, apply if the patient was receiving supplemental oxygen).
 
 </details>
-
+$\space$
 <details>
 <summary>
    $\color{darkorange}{\textsf{Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?}}$
 </summary>
 
-   1. Under-filling alters the intended Anticoagulant:Blood ratio
-   2. Syringes are electrolyte balanced for an expected volume
-   3. Prevent NSQ for analysis (NSQ = Not sufficient quantity)
-   
-      **Note:** While heparin is the anti-coagulant, heparin binds positively charged electrolytes (Na+ and iCa2+).
+1. Under-filling alters the intended Anticoagulant:Blood ratio
+2. Syringes are electrolyte balanced for an expected volume
+3. Prevent NSQ for analysis (NSQ = Not sufficient quantity)
+
+   **Note:** While heparin is the anti-coagulant, heparin binds positively charged electrolytes (Na+ and iCa2+).
 
 </details>
 
@@ -93,19 +95,19 @@ A quick note about reference intervals. You should have a decent idea of the ref
    $\color{darkorange}{\textsf{What would happen if blood gas analysis were delayed?}}$
 </summary>
 
-   1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2].
-      * $\color{green}{\textsf{What happens to pO₂ in myeloproliferative diseases with extreme leukocytosis/thrombocytosis (e.g. AML, Acute Myelogenous Leukemia)?}}$
-         * Spuriously low pO₂ are possible, where the energy intensive WBC will consume O₂. So blood gas analysis should be done as soon as possible, especially in these patients.
-   2. Increased gas exchange (*i.e.* loss of O₂) through plastic walls [3].
-       * Glass syringes preserve **pO₂** values better than plastic syringes (plastic syringes/containers are more common today, but have high oxygen permeability). Plastic syringes are used today because they are inexpensive, disposable, and not prone to breakage/shatter.
-       * Generally, the gas loss through plastic tubes is insignificant, if performed <40 minutes [3].
-       * Glass and plastic syringes are ~equivalent for pH and pCO₂.
-
+1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2].
+   * $\color{green}{\textsf{What happens to pO₂ in myeloproliferative diseases with extreme leukocytosis/thrombocytosis (e.g. AML, Acute Myelogenous Leukemia)?}}$
+     * Spuriously low pO₂ are possible, where the energy intensive WBC will consume O₂. So blood gas analysis should be done as soon as possible, especially in these patients.
+2. Increased gas exchange (*i.e.* loss of O₂) through plastic walls [3].
+   * Glass syringes preserve **pO₂** values better than plastic syringes (plastic syringes/containers are more common today, but have high oxygen permeability). Plastic syringes are used today because they are inexpensive, disposable, and not prone to breakage/shatter.
+   * Generally, the gas loss through plastic tubes is insignificant, if performed <40 minutes [3].
+   * Glass and plastic syringes are ~equivalent for pH and pCO₂.
 
 *References:*
-   1. Kelman, G.; Nunn, J. Journal of Applied Physiology 1966, 21, 1484–1490.
-   2. Severinghaus, J. W.; Astrup, P. B. Journal of clinical monitoring 1986, 2, 174–189.
-   3. Zavorsky, G. S.; Wijk, X. M. R. van. Clin. Chem. Lab. Med. 2023, 1–10.
+
+1. Kelman, G.; Nunn, J. Journal of Applied Physiology 1966, 21, 1484–1490.
+2. Severinghaus, J. W.; Astrup, P. B. Journal of clinical monitoring 1986, 2, 174–189.
+3. Zavorsky, G. S.; Wijk, X. M. R. van. Clin. Chem. Lab. Med. 2023, 1–10.
 
 </details>
 
@@ -115,20 +117,22 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </summary>
 
 * Ice increases oxygen permeability in plastic tubes, leading to artificial increase in pO2.
-   * Specifically, increase in $pO_2$ from exchange with air outside and decreased cellular metabolism
-   * Verify your exchange rate for your tubes and various samples or scenarios as significant or not
-   * :+1: **Ideal Practice:**
-      * Ice  can harm $pO_2$ stability, measure samples stored at room temp.
-      * Recent study: < 40 minutes at room temperature
-         * (Reference: [https://doi.org/10.1515/cclm-2022-1085](https://doi.org/10.1515/cclm-2022-1085))
 
+  * Specifically, increase in $pO_2$ from exchange with air outside and decreased cellular metabolism
+  * Verify your exchange rate for your tubes and various samples or scenarios as significant or not
+  * 👍 **Ideal Practice:**
+    * Ice  can harm $pO_2$ stability, measure samples stored at room temp.
+    * Recent study: < 40 minutes at room temperature
+      * (Reference: [https://doi.org/10.1515/cclm-2022-1085](https://doi.org/10.1515/cclm-2022-1085))
 * Potassium is also subject to increase with prolonged (>1 hour) storage/transport on ice [1]
 
-   Why?
+  Why?
+
   * Lowered temperatures inhibits red blood cells glycolysis, leading to decreased ATP production, which slows down the $Na^+/K^+$ ATPase pump that keeps the $K^+$ inside the cells. This leads to a “leaky” situation, (*i.e.* redistribution) , where more $K^+$ shifts from the intracellular fluid compartment to the extracellular fluid (plasma) compartment, thus increasing plasma $K^+$ [1].
 
 *References:*
-   1. Zavorsky, G. S.; Wijk, X. M. van; Gasparyan, S.; Stollenwerk, N. S.; Brooks, R. A. The Journal of Applied Laboratory Medicine 2022, 7, 541–554.
+
+1. Zavorsky, G. S.; Wijk, X. M. van; Gasparyan, S.; Stollenwerk, N. S.; Brooks, R. A. The Journal of Applied Laboratory Medicine 2022, 7, 541–554.
 
 </details>
 
@@ -137,12 +141,13 @@ A quick note about reference intervals. You should have a decent idea of the ref
    $\color{darkorange}{\textsf{Can you use a pneumatic transport system (PTS) to transfer the blood gas specimens to the central or core laboratory?}}$
 </strong></summary>
 
-   * Depends on the stability of the pneumatic transport system (PTS).
-   * In some cases, experience and data suggests most PTS show no significant effect on pH and pCO2 [1]. However, pO2 can be affected if the sample is contaminated with even tiny amounts of air.
-   * You will need to verify your own settings and continuously monitor for changes to showcase that equivalent and consistent results can be obtained by transport via PTS.
-   
+* Depends on the stability of the pneumatic transport system (PTS).
+* In some cases, experience and data suggests most PTS show no significant effect on pH and pCO2 [1]. However, pO2 can be affected if the sample is contaminated with even tiny amounts of air.
+* You will need to verify your own settings and continuously monitor for changes to showcase that equivalent and consistent results can be obtained by transport via PTS.
+
 *References:*
-   1. Pupek, A.; Matthewson, B.; Whitman, E.; Fullarton, R.; Chen, Y. Clinical Chemistry and Laboratory Medicine (CCLM) 2017, 55, 1537–1544.
+
+1. Pupek, A.; Matthewson, B.; Whitman, E.; Fullarton, R.; Chen, Y. Clinical Chemistry and Laboratory Medicine (CCLM) 2017, 55, 1537–1544.
 
 </details>
 
@@ -151,34 +156,41 @@ A quick note about reference intervals. You should have a decent idea of the ref
    $\color{darkorange}{\textsf{Can vacutainers (evacuated tubes) be of use in blood gas measurements?}}$
 </summary>
 
-   * Not for pO2 or Oxygen saturation. General consensus and guidances from Clinical Laboratory Standards Institute recommend arterial blood gas samples be collected in syringes directly.
-   * For venous samples, evacuated tubes can potentially be used for pCO2, pH and other measurands, if you have data to support sufficiently equivalent results can be obtained. However, evacuated tubes are not completely vacuum; there is small amount of gas or residual air that can contaminate the results. Under-filled vacutainers create headspace or a void above the solution, enabling an equilibration between solution and gas phase, which also underlies the error[1].
+* Not for pO2 or Oxygen saturation. General consensus and guidances from Clinical Laboratory Standards Institute recommend arterial blood gas samples be collected in syringes directly.
+* For venous samples, evacuated tubes can potentially be used for pCO2, pH and other measurands, if you have data to support sufficiently equivalent results can be obtained. However, evacuated tubes are not completely vacuum; there is small amount of gas or residual air that can contaminate the results. Under-filled vacutainers create headspace or a void above the solution, enabling an equilibration between solution and gas phase, which also underlies the error[1].
+* There is varying practices on the use evacuated tubes (vacutainers). However, data suggests vacutainers can lead to falsely high pH, pO2, and falsely low pCO2 [1].
 
-   * There is varying practices on the use evacuated tubes (vacutainers). However, data suggests vacutainers can lead to falsely high pH, pO2, and falsely low pCO2 [1].
-      
-*References:* 
-   1. Tang, N.-Y.; Leanse, J. H.; Tesic, V.; Wijk, X. M. van. Clinica Chimica Acta 2020, 510, 671–674.
+*References:*
+
+1. Tang, N.-Y.; Leanse, J. H.; Tesic, V.; Wijk, X. M. van. Clinica Chimica Acta 2020, 510, 671–674.
 
 </details>
 
 <details>
-<strong><summary>
+<summary>
    $\color{darkorange}{\textsf{Why are clotted specimens rejected?}}$
-</summary></strong>
-   
-   1. Specimen was likely not handled according to standard process  
-   2. Old/Aged specimen  
-   3. Clogs analyzer  
-   4. Clotting can have effects leading to measurement error
-\
-      $\color{darkorange}{\textsf{Are results reliable from clotted specimens?}}$
-         * No. Filters or “clot catchers” are useful and help to reduce analysis of clotted specimens, but do not completely eliminate all clotted specimens. And some instruments have built in clot detection [1].
+</summary>
+
+1. Specimen was likely not handled according to standard process
+2. Old/Aged specimen
+3. Clogs analyzer
+4. Clotting can have effects leading to measurement error
+   $\color{darkorange}{\textsf{Are results reliable from clotted specimens?}}$
+   * No. Filters or “clot catchers” are useful and help to reduce analysis of clotted specimens, but do not completely eliminate all clotted specimens. And some instruments have built in clot detection [1].
 
 *References:*
-   1. D’Orazio, P. Point Care 2011, 10, 186–188.
+
+1. D’Orazio, P. Point Care 2011, 10, 186–188.
 
 </details>
 
+<details>
+<summary>Click here to reveal a warning</summary>
+
+> [!WARNING]
+> This text is now hidden inside a dropdown, but retains the yellow warning styling and icon when opened!
+
+</details>
 ---
 
 ## Oximetry and Co-Oximetry
