@@ -103,9 +103,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 
 *References:*
-1. Kelman, G.; Nunn, J. Journal of Applied Physiology 1966, 21, 1484–1490.
-2. Severinghaus, J. W.; Astrup, P. B. Journal of clinical monitoring 1986, 2, 174–189.
-3. Zavorsky, G. S.; Wijk, X. M. R. van. Clin. Chem. Lab. Med. 2023, 1–10.
+   1. Kelman, G.; Nunn, J. Journal of Applied Physiology 1966, 21, 1484–1490.
+   2. Severinghaus, J. W.; Astrup, P. B. Journal of clinical monitoring 1986, 2, 174–189.
+   3. Zavorsky, G. S.; Wijk, X. M. R. van. Clin. Chem. Lab. Med. 2023, 1–10.
 
 </details>
 
@@ -122,7 +122,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
   * Lowered temperatures inhibits red blood cells glycolysis, leading to decreased ATP production, which slows down the $Na^+/K^+$ ATPase pump that keeps the $K^+$ inside the cells. This leads to a “leaky” situation, (*i.e.* redistribution) , where more $K^+$ shifts from the intracellular fluid compartment to the extracellular fluid (plasma) compartment, thus increasing plasma $K^+$ [1].
 
 *References:*
-1. Zavorsky, G. S.; Wijk, X. M. van; Gasparyan, S.; Stollenwerk, N. S.; Brooks, R. A. The Journal of Applied Laboratory Medicine 2022, 7, 541–554.
+   1. Zavorsky, G. S.; Wijk, X. M. van; Gasparyan, S.; Stollenwerk, N. S.; Brooks, R. A. The Journal of Applied Laboratory Medicine 2022, 7, 541–554.
 
 </details>
 
@@ -136,7 +136,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
    * You will need to verify your own settings and continuously monitor for changes to showcase that equivalent and consistent results can be obtained by transport via PTS.
    
 *References:*
-1. Pupek, A.; Matthewson, B.; Whitman, E.; Fullarton, R.; Chen, Y. Clinical Chemistry and Laboratory Medicine (CCLM) 2017, 55, 1537–1544.
+   1. Pupek, A.; Matthewson, B.; Whitman, E.; Fullarton, R.; Chen, Y. Clinical Chemistry and Laboratory Medicine (CCLM) 2017, 55, 1537–1544.
 
 </details>
 
@@ -151,14 +151,24 @@ A quick note about reference intervals. You should have a decent idea of the ref
    * There is varying practices on the use evacuated tubes (vacutainers). However, data suggests vacutainers can lead to falsely high pH, pO2, and falsely low pCO2 [1].
       
 *References:* 
-Tang, N.-Y.; Leanse, J. H.; Tesic, V.; Wijk, X. M. van. Clinica Chimica Acta 2020, 510, 671–674.
+   1. Tang, N.-Y.; Leanse, J. H.; Tesic, V.; Wijk, X. M. van. Clinica Chimica Acta 2020, 510, 671–674.
 
 </details>
 
 <details>
-<summary><strong>Why are clotted specimens rejected?</strong></summary>
+<summary><strong>
+   $\color{darkorange}{\textsf{Why are clotted specimens rejected?}}$
+</strong></summary>
+   1. Specimen was likely not handled according to standard process
+   2. Old/Aged specimen
+   3. Clogs analyzer
+   4. Clotting can have effects leading to measurement error 
 
-*(Answer pending)*
+   $\color{darkorange}{\textsf{Are results reliable from clotted specimens?}}$
+      * No. Filters or “clot catchers” are useful and help to reduce analysis of clotted specimens, but do not completely eliminate all clotted specimens. And some instruments have built in clot detection [1].
+
+*References:*
+   1. D’Orazio, P. Point Care 2011, 10, 186–188.
 
 </details>
 
