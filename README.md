@@ -138,7 +138,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </strong></summary>
 
    * Depends on the stability of the pneumatic transport system (PTS).
-   * In some cases, experience and data suggests most PTS show no significant effect on pH and pCO2 [1]. However, pO2 can be affected if the sample is contaminated with the even tiny amounts of air.
+   * In some cases, experience and data suggests most PTS show no significant effect on pH and pCO2 [1]. However, pO2 can be affected if the sample is contaminated with even tiny amounts of air.
    * You will need to verify your own settings and continuously monitor for changes to showcase that equivalent and consistent results can be obtained by transport via PTS.
    
 *References:*
@@ -181,7 +181,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 ---
 
-### Oximetry and Co-Oximetry
+## Oximetry and Co-Oximetry
 
 <details>
 <summary><strong>What is Oximetry or Co-oximetry?</strong></summary>
