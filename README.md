@@ -7,7 +7,7 @@ Note: If you’re using the PDF version of this book, it will not be updated fre
 
 ---
 
-### Reference Intervals
+## Reference Intervals
 A quick note about reference intervals. You should have a decent idea of the reference intervals for electrolytes and blood gases, which would be useful also for acid/bases problems (not covered here). For example, if I told you that we had a case of a patient with pCO₂ of 55 mm Hg from an arterial blood gas, you should be able to appreciate that such a level is relatively high or indicative of hypercapnia. Below are a set of reference intervals that one can use as a guide. Keep mind that reference intervals can vary due to instruments, demographics, blood source and other factors.
 
 | Analyte | Arterial Blood | Venous Blood | Units |
@@ -27,7 +27,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 ---
 
-### Preanalytical Errors & Considerations
+## Preanalytical Errors & Considerations
 
 <details>
 <summary> 
