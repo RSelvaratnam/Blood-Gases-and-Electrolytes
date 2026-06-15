@@ -162,9 +162,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary>
+<strong><summary>
    $\color{darkorange}{\textsf{Why are clotted specimens rejected?}}$
-</summary>
+</summary></strong>
    
    1. Specimen was likely not handled according to standard process  
    2. Old/Aged specimen  
