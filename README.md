@@ -49,9 +49,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong> 
+<summary> 
    $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pCO₂? Why?}}$
-</strong></summary>
+</summary>
    
    * CO₂ makes up 0.0407% of atmospheric air
    * Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
@@ -62,9 +62,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>
+<summary>
     $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pO₂? Why?}}$
-</strong></summary>
+</summary>
 
    * O₂ makes up 20.946% of atmospheric air
    * pO₂ in the air = 760 mm Hg X 0.20946% = 159.19 mm Hg
@@ -76,9 +76,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>
+<summary>
    $\color{darkorange}{\textsf{Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?}}$
-</strong></summary>
+</summary>
 
    1. Under-filling alters the intended Anticoagulant:Blood ratio
    2. Syringes are electrolyte balanced for an expected volume
@@ -89,9 +89,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>
+<summary>
    $\color{darkorange}{\textsf{What would happen if blood gas analysis were delayed?}}$
-</strong></summary>
+</summary>
 
    1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2].
       * $\color{green}{\textsf{What happens to pO₂ in myeloproliferative diseases with extreme leukocytosis/thrombocytosis (e.g. AML, Acute Myelogenous Leukemia)?}}$
@@ -110,9 +110,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>
+<summary>
     $\color{darkorange}{\textsf{Should samples be transported on ice? Or room temperature?}}$
-</strong></summary>
+</summary>
 
 * Ice increases oxygen permeability in plastic tubes, leading to artificial increase in pO2.
    * Specifically, increase in $pO_2$ from exchange with air outside and decreased cellular metabolism
@@ -147,9 +147,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary><strong>
+<summary>
    $\color{darkorange}{\textsf{Can vacutainers (evacuated tubes) be of use in blood gas measurements?}}$
-</strong></summary>
+</summary>
 
    * Not for pO2 or Oxygen saturation. General consensus and guidances from Clinical Laboratory Standards Institute recommend arterial blood gas samples be collected in syringes directly.
    * For venous samples, evacuated tubes can potentially be used for pCO2, pH and other measurands, if you have data to support sufficiently equivalent results can be obtained. However, evacuated tubes are not completely vacuum; there is small amount of gas or residual air that can contaminate the results. Under-filled vacutainers create headspace or a void above the solution, enabling an equilibration between solution and gas phase, which also underlies the error[1].
