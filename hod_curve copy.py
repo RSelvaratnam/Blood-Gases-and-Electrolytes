@@ -79,7 +79,6 @@ fig.add_annotation(
     font=dict(size=12)
 )
 
-
 # Left Shift Text Block ---
 fig.add_annotation(
     x=2, y=90, # Position on the graph (x=pO2, y=sO2)
