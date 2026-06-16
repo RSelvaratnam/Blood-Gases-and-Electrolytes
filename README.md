@@ -218,30 +218,78 @@ $\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis?
 </div>
 </details>
 
-<details>
-<summary><strong>What are factors that influence the HOD Curve? In other words, what factors can cause a left shift or right shift?</strong></summary>
+<details><summary>
 
-*(Answer pending)*
+$\color{darkorange}{\textsf{What are factors that influence the HOD Curve? In other words, what factors can cause a left shift or right shift?}}$
+</summary>
 
-</details>d 
+<div align="center">
+  <img src="HOD_Curve2.png" alt="My Image Description" width="900">
+</div>
+The figure illustrates that following factors can cause a right shift.
 
-<details>
-<summary><strong>What are 3 ways to measure saturated oxygen (SO₂)?</strong></summary>
+* Increase in Temperature (e.g. fever)
 
-*(Answer pending)*
+* Increase in $[H^+]$ (or increase in acidic conditions, i.e. a decrease in pH)
+
+* Increase in $pCO_2$ (recall that $CO_2$ is an acidic, which also decreases pH, thus leading to right shift).  Elevated $pCO_2$ can suggest respiratory acidosis
+
+* Increases in 2,3 Diphosphoglyceric Acid (DPG) 
+
+* Other factors as such increases in Hemoglobin S (HBS)  
+
+The factors that cause a left shift are those such as: 
+
+* Decrease in Temperature
+
+* Decrease in $[H^+]$ (*i.e.* deprotonation or loss of acid -> a increase in pH)
+
+* Decrease in $pCO_2$
+
+* Decreases in (DPG) 
+
+* Other factors: Increases carboxyhemoglobin, methemoglobin, or fetal hemoglobin
 
 </details>
 
 <details>
-<summary><strong>What is Pulse Oximetry (Pulse Ox)?</strong></summary>
+<summary>
 
-*(Answer pending)*
+$\color{darkorange}{\textsf{What are 3 ways to measure saturated oxygen (SO₂)?}}$
+</summary>
+
+1. Pulse Oximetry
+
+2. Co-oximetry
+
+3. estimated Oxygen Saturation (eO2 Sat)
 
 </details>
 
 <details>
-<summary><strong>When is pulse oximetry NOT appropriate?</strong></summary>
+<summary>
+$\color{darkorange}{\textsf{What is Pulse Oximetry (Pulse Ox)?}}$
 
-*(Answer pending)*
+</summary>
+
+* The pulse oximeter estimates the oxygen saturation transcutatenously.  By shining light (red and infrared light) at the fingertip or ear lobe and detecting appropriate signal absorption pattern, oximetric parameters are obtained that are related (and calibrated) to measurements of arterial blood oxygen saturation[1].  
+
+* This method of assessing oxygen saturation makes several assumptions, what these assumptions are will be asked and discussed subsequently.
+
+*Reference:*  
+
+1. Keller MD, Harrison-Smith B, Patil C, Arefin MS. Skin colour affects the accuracy of medical oxygen sensors. Nature [Internet]. 2022 Oct;610(7932):449–51. Available from: https://www.nature.com/articles/d41586-022-03161-1
+
+</details>
+
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{When is pulse oximetry NOT appropriate?}}$
+</summary>
+
+If there are suspected dyshemoglobins, do not use pulse ox to measure SO2.
+
+E.g. a comatosed patients with 15% COHb and by pulse oximetry SO2 ~95% can be achieved, which is inaccurate  
 
 </details>
