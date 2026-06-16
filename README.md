@@ -198,6 +198,12 @@ $\color{darkorange}{\textsf{What is Oximetry or Co-oximetry?}}$
 
 * Saturation is on the y-axis,which is looking simply at the ratio of oxygenated hemoglobin to the sum of all hemoglobin species (oxygenated + deoxygenated). The curve is modelled as sigmoidal, but the sigmoidal nature is hard to appreciate in the real world figure illustrated here. See subsequent question and figure for that.
 
+
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis? Why the sigmoidal curve?}}$
+
 * The x-axis contains the partial pressure of Oxygen. 
    > **Important points to note:** 
       * Once arterial pO2 reaches ~60 mm Hg (red line in the figure), the curve begins to plateau (~getting nearly flat) indicating much lower levels of change in saturation above this point.
@@ -207,12 +213,6 @@ $\color{darkorange}{\textsf{What is Oximetry or Co-oximetry?}}$
 * The sigmoidal nature is due to the fundamental property of allostery & cooperativity underlying hemoglobin binding affinity for oxygen.
 
 <img src="HOD_Curve.png" alt="My Image Description" width="600">
-
-<details>
-<summary>
-
-$\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis? Why the sigmoidal curve?}}$
-
 </summary>
 
 *(Answer pending)*
