@@ -184,26 +184,25 @@ $\space$
 
 </details>
 
-<details>
-<summary>Click here to reveal a warning</summary>
-
-> [!WARNING]
-> This text is now hidden inside a dropdown, but retains the yellow warning styling and icon when opened!
-
-</details>
 ---
 
 ## Oximetry and Co-Oximetry
 
 <details>
-<summary><strong>What is Oximetry or Co-oximetry?</strong></summary>
+<summary>
+$\color{darkorange}{\textsf{What is Oximetry or Co-oximetry?}}$
+</summary>
 
-*(Answer pending)*
+* Spectrophotometric assessment of Hemoglobin (Hb) content. In other words, an indirect assessment of pO2 (given by the Hemoglobin-Oxygen Dissociation (HOD) curve)
 
 </details>
 
 <details>
-<summary><strong>What is the Hemoglobin-Oxygen Dissociation (HOD) curve? What is on the x-axis? What is on the y-axis? Why the sigmoidal curve?</strong></summary>
+<summary>
+
+$\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis? Why the sigmoidal curve?}}$
+
+</summary>
 
 *(Answer pending)*
 
@@ -214,7 +213,7 @@ $\space$
 
 *(Answer pending)*
 
-</details>
+</details>d 
 
 <details>
 <summary><strong>What are 3 ways to measure saturated oxygen (SO₂)?</strong></summary>
