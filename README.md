@@ -213,9 +213,8 @@ $\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis?
 * The sigmoidal nature is due to the fundamental property of allostery & cooperativity underlying hemoglobin binding affinity for oxygen.
 
 <img src="HOD_Curve.png" alt="My Image Description" width="600">
-</summary>
 
-*(Answer pending)*
+</summary>
 
 </details>
 
