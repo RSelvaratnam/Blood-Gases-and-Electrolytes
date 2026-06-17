@@ -293,3 +293,110 @@ If there are suspected dyshemoglobins, do not use pulse ox to measure SO2.
 E.g. a comatosed patients with 15% COHb and by pulse oximetry SO2 ~95% can be achieved, which is inaccurate  
 
 </details>
+
+---
+
+## $pO_2$
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{Why measure pO₂?}}$
+</summary>
+
+1. Assess the ability to deliver oxygen to tissue
+2. Diagnosis respiratory failure
+3. Monitor $O_2$ therapy
+
+* Low $pO_2$ = hypoxemia (< 60 mm Hg)
+   * Consider hypoxemia vs hypoxia 
+      * What is hypoxia?
+         * Low oxygen content in any tissue, organ, or whole body; 
+                        - Due to defective delivery or defective Utilization  
+* $pO_2$ ~60 mM Hg lower in venous blood after release to capillaries  
+
+>[!info] Arterial Collection
+   **$pO_2$** measurements are the main reason for arterial collection
+
+</details>
+
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{What are 3 variables affecting Total Oxygen Content in blood?}}$
+</summary>
+Total arterial oxygen content ($CaO_2$) $ = FO_2Hb \times \beta O_2 \times [total\ Hb]) + \alpha' O_2 \times pO_2$ 
+
+* where $\beta O_2$ is the oxygen binding capacity = 1.39 mL $O_2$ /g Hb.
+* Where $\alpha'$ is the solubility coefficient of oxygen in blood = 0.00314 mL/dL/mm Hg  
+
+>[!info] The three variables are: 
+   1. Fraction of Oxyhemoglobin(*i.e*., **saturation or saturability**),
+   2. Hemoglobin Concentration*, (*i.e*., **binding capacity**) and 
+   3. **$pO_2$** (*i.e* **supply**)
+
+>[!warning] Other Variables
+   We discussed above in the Hemoglobin-Oxygen Dissociation curve, variables that affect the affinity for binding of Hb. These secondary variables don't necessarily change the structural capacity of the blood, but they drastically alter hemoglobin's affinity for oxygen.  This also structural interferences (dyshemoglobins)
+
+</details>
+
+## $pCO_2$
+$pCO_2$ is ~2 - 8 mM Hg higher in venous blood
+
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{Why measure pCO₂?}}$
+</summary>
+
+   1. Monitoring Acid/base status ($pCO_2$, reflects respiratory contribution)
+
+   2. Distinguish Type 1 & 2 respiratory failure (need arterial pO2 & arterial pCO2)
+      > **Type 1:**  $pO_2 <60$ mm Hg (Hypoxemia) **+** normal or reduced $pCO_2$
+      >  Causes of type 1 respiratory failure include:
+            - Pulmonary edema
+            - Pneumonia
+            - ARDS (fluid leakage into lungs)
+            - COPD
+            - Asthma
+            - Chronic pulmonary fibrosis
+            - Pneumothorax (air in the (pleural) cavity between lungs and chest wall)
+            - Pulmonary embolism
+            - Pulmonary hypertension
+
+
+
+      > **Type 2:** $pO_2$ <60 mm Hg (Hypoxemia) + $pCO_2$ ****>50 mm Hg ****(Hypercapnia)
+         > * Commonly caused by, **COPD**, but may also be caused by:
+            1. Chest-wall deformities
+            2. CNS depression (associated with reduced respiratory drive)
+               - e.g. Sedatives and strong opioids
+            3. Neuromuscular disease 
+               - Myasthenia gravis
+               - Muscle disorders
+               - Respiratory muscle weakness
+            4. Severe asthma
+   3. Monitor safety/efficacy of $O_2$ therapy or mechanical ventilation
+</details>
+
+
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{Hyperventilation leads to increase or decrease in pCO₂?}}$
+
+</summary>
+
+**↓** $_pCO_2$  blows off more $_pCO_2$
+
+</details>
+
+
+<details>
+<summary>
+
+$\color{darkorange}{\textsf{Hypoventilation leads to increase or decrease in pCO₂?}}$
+</summary>
+
+↑ $_pCO_2$, causes Hypercapnia
+
+</details>
