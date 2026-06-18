@@ -190,18 +190,17 @@ $\space$
 
 ## Oximetry and Co-Oximetry
 
-<details><summary>
-
-$\color{darkorange}{\textsf{What is Oximetry or Co-oximetry?}}$
+<details><summary>$\color{darkorange}{\textsf{What is Oximetry or Co-oximetry?}}$
 </summary>
 
 * Spectrophotometric assessment of Hemoglobin (Hb) content. In other words, an indirect assessment of pO2 (given by the Hemoglobin-Oxygen Dissociation (HOD) curve)
 </details>
 
 
-<details><summary>
 
-$\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis? Why the sigmoidal curve?}}$
+
+
+<details><summary>$\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis? Why the sigmoidal curve?}}$
 </summary>
 
    * The x-axis contains the partial pressure of Oxygen.  
@@ -220,9 +219,12 @@ $\color{darkorange}{\textsf{What is the HOD curve? What is on the x- and y-axis?
 </div>
 </details>
 
-<details><summary>
 
-$\color{darkorange}{\textsf{What are factors that influence the HOD Curve? In other words, what factors can cause a left shift or right shift?}}$
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What are factors that influence the HOD Curve? In other words, what factors can cause a left shift or right shift?}}$
 </summary>
 
 <div align="center">
@@ -254,10 +256,12 @@ The factors that cause a left shift are those such as:
 
 </details>
 
-<details>
-<summary>
 
-$\color{darkorange}{\textsf{What are 3 ways to measure saturated oxygen (SO₂)?}}$
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What are 3 ways to measure saturated oxygen (SO₂)?}}$
 </summary>
 
 1. Pulse Oximetry
@@ -268,10 +272,7 @@ $\color{darkorange}{\textsf{What are 3 ways to measure saturated oxygen (SO₂)?
 
 
 
-<details>
-<summary>
-$\color{darkorange}{\textsf{What is Pulse Oximetry (Pulse Ox)?}}$
-
+<details><summary>$\color{darkorange}{\textsf{What is Pulse Oximetry (Pulse Ox)?}}$
 </summary>
 
 * The pulse oximeter estimates the oxygen saturation transcutatenously.  By shining light (red and infrared light) at the fingertip or ear lobe and detecting appropriate signal absorption pattern, oximetric parameters are obtained that are related (and calibrated) to measurements of arterial blood oxygen saturation[1].  
@@ -283,10 +284,7 @@ $\color{darkorange}{\textsf{What is Pulse Oximetry (Pulse Ox)?}}$
 1. Keller MD, Harrison-Smith B, Patil C, Arefin MS. Skin colour affects the accuracy of medical oxygen sensors. Nature [Internet]. 2022 Oct;610(7932):449–51. Available from: https://www.nature.com/articles/d41586-022-03161-1
 
 
-<details>
-<summary>
-
-$\color{darkorange}{\textsf{When is pulse oximetry NOT appropriate?}}$
+<details><summary>$\color{darkorange}{\textsf{When is pulse oximetry NOT appropriate?}}$
 </summary>
 
 * If there are suspected dyshemoglobins, do not use pulse ox to measure SO2.
@@ -294,13 +292,15 @@ $\color{darkorange}{\textsf{When is pulse oximetry NOT appropriate?}}$
    * E.g. a comatosed patients with 15% COHb and by pulse oximetry SO2 ~95% can be achieved, which is inaccurate  
 
 </details>
+
+
+
 </details>
 
-<details>
-<summary>
 
-$\color{darkorange}{\textsf{How do you determine Oxygen Saturation with Co-Ox?}}$
 
+
+<details><summary>$\color{darkorange}{\textsf{How do you determine Oxygen Saturation with Co-Ox?}}$
 </summary>
 
 - Co-Ox determination of $SO_2$, denoted as $F_{O_2Hb}$, i.e., Fraction of Oxyhemoglobin has RI of 90 - 95% .
@@ -334,11 +334,12 @@ $\color{darkorange}{\textsf{How do you determined estimated O₂ saturation, eO�
 
 ---
 
-## $pO_2$
-<details>
-<summary>
 
-$\color{darkorange}{\textsf{Why measure pO₂?}}$
+
+
+
+## $pO_2$
+<details><summary>$\color{darkorange}{\textsf{Why measure pO₂?}}$
 </summary>
 
 1. Assess the ability to deliver oxygen to tissue
@@ -357,10 +358,10 @@ $\color{darkorange}{\textsf{Why measure pO₂?}}$
 
 </details>
 
-<details>
-<summary>
 
-$\color{darkorange}{\textsf{What are 3 variables affecting Total Oxygen Content in blood?}}$
+
+
+<details><summary>$\color{darkorange}{\textsf{What are 3 variables affecting Total Oxygen Content in blood?}}$
 </summary>
 Total arterial oxygen content ($CaO_2$) $ = FO_2Hb \times \beta O_2 \times [total\ Hb]) + \alpha' O_2 \times pO_2$ 
 
@@ -377,13 +378,14 @@ Total arterial oxygen content ($CaO_2$) $ = FO_2Hb \times \beta O_2 \times [tota
 
 </details>
 
+
+
+
+
 ## $pCO_2$
 $pCO_2$ is ~2 - 8 mM Hg higher in venous blood
 
-<details>
-<summary>
-
-$\color{darkorange}{\textsf{Why measure pCO₂?}}$
+<details><summary>$\color{darkorange}{\textsf{Why measure pCO₂?}}$
 </summary>
 
    1. Monitoring Acid/base status ($pCO_2$, reflects respiratory contribution)
@@ -417,11 +419,10 @@ $\color{darkorange}{\textsf{Why measure pCO₂?}}$
 </details>
 
 
-<details>
-<summary>
 
-$\color{darkorange}{\textsf{Hyperventilation leads to increase or decrease in pCO₂?}}$
 
+
+<details><summary>$\color{darkorange}{\textsf{Hyperventilation leads to increase or decrease in pCO₂?}}$
 </summary>
 
 **↓** $_pCO_2$  blows off more $_pCO_2$
@@ -429,17 +430,19 @@ $\color{darkorange}{\textsf{Hyperventilation leads to increase or decrease in pC
 </details>
 
 
-<details>
-<summary>
 
-$\color{darkorange}{\textsf{Hypoventilation leads to increase or decrease in pCO₂?}}$
+
+<details><summary>$\color{darkorange}{\textsf{Hypoventilation leads to increase or decrease in pCO₂?}}$
 </summary>
 
 ↑ $_pCO_2$, causes Hypercapnia
 
 </details>
 
+
+
 ---
+
 
 ## Agents that cause cellular hypoxia
 
@@ -449,9 +452,7 @@ $\color{darkorange}{\textsf{Hypoventilation leads to increase or decrease in pCO
 
 ### Carbon Monoxide Poisoning
 
-<details>
-<summary>$\color{darkorange}{\textsf{What is it CO Poisoning?}}$
-
+<details><summary>$\color{darkorange}{\textsf{What is it CO Poisoning?}}$
 </summary>
 
 - Carbon monoxide (CO) at low concentrations is an odorless and colorless gas
@@ -472,8 +473,11 @@ Normal findings for saturation of hemoglobin differ among smokers, nonsmokers, a
 >  - Critical Values: >20%
 </details>
 
-<details><summary>$\color{darkorange}{\textsf{What is the pathophysiology of CO Poisoning?}}$
 
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What is the pathophysiology of CO Poisoning?}}$
 </summary>
 
 - **Allosterically induces tighter** $O_2$ **binding; Affects the release of O2**  
@@ -605,39 +609,87 @@ Normal findings for saturation of hemoglobin differ among smokers, nonsmokers, a
 ## Methemoglobinemia
 Normal methemoglobin is <1.5% of total Hb
 
-Why does it happen?
-    - **Heme iron in Hb is normally in ferrous state (**$Fe^{2+}$**);** oxidation to Ferric state ($Fe^{3+}$) = metHb = no binding to $O_2$ = hypoxia symptoms
-    - $Fe^{3+}$ state results in allosteric changes that shifts the oxygen-dissociation curve to the left. This shift leads to increased affinity of the ferrous iron for oxygen **and thus impaired oxygen release to the tissue**
-- **What are Causes?**
-    - **Acquired**:
-        1. Caused by various drugs and chemicals (oxides of nitrogen, other oxidant combustion products make smoke inhalation)
-            1. Drugs include for example dapsone or rasburicase
-    - **Genetic(Congenital)**:
-        1. *NADH-MetHb reductase deficiency also called* Cytochrome b5 reductase (CYB5R)
-            - Enzyme responsible for reducing Hb
-            - A deficiency of CYB5R in erythrocytes is an autosomal recessive disorder resulting from variants in the *CYB5R3* or the *CYB5A* genes.
-        2. HbM
-            - Caused by a various mutations in the α-, β-, and γ-globin genes
-                - Ref: [https://doi.org/10.1016/B978-0-323-53045-3.00033-7](https://doi.org/10.1016/B978-0-323-53045-3.00033-7))
-            - Hb that is more susceptible to oxidation & resistant to reduction
+
+
+<details><summary>$\color{darkorange}{\textsf{Why or how does it happen?}}$
+</summary>
+
+- **Heme iron in Hb is normally in ferrous state (**$Fe^{2+}$**);** oxidation to Ferric state ($Fe^{3+}$) = metHb = no binding to $O_2$ = hypoxia symptoms
+>[!info] Ferric state results in allosteric changes that shifts the oxygen-dissociation curve to the left. 
+>This shift leads to increased affinity of the ferrous iron for oxygen **and thus impaired oxygen release to the tissue**
+
+</details>
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What are Causes of MetHb?}}$
+</summary>
+
+- **Acquired**:
+   1. Caused by various drugs and chemicals (oxides of nitrogen, other oxidant combustion products make smoke inhalation)
+      1. Drugs include for example dapsone or rasburicase
+- **Genetic(Congenital)**:
+   1. *NADH-MetHb reductase deficiency also called* Cytochrome b5 reductase (CYB5R)
+      - Enzyme responsible for reducing Hb
+      - A deficiency of CYB5R in erythrocytes is an autosomal recessive disorder resulting from variants in the *CYB5R3* or the *CYB5A* genes.
+   2. HbM
+      - Caused by a various mutations in the α-, β-, and γ-globin genes
+            - Ref: [https://doi.org/10.1016/B978-0-323-53045-3.00033-7](https://doi.org/10.1016/B978-0-323-53045-3.00033-7))
+      - Hb that is more susceptible to oxidation & resistant to reduction
+
+ </details>
+
+
+
+
+
+ <details><summary>$\color{darkorange}{\textsf{What are Symptoms?}}$
+ </summary>
+
+- Cutaneous discoloration (gray), cyanosis, chocolate-brown blood
+   - Symptom severity dependent on **[metHb]** and consequent to hypoxia (diminished O2)
+      - [metHb] >20% → dyspnea, fatigue, weakness, and syncope
+      - [metHb] >50% → dysrhythmias, seizures, metabolic acidosis and coma
+      - [metHb] > 70% → lethal
+</details>
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What is the treatment?}}$
+</summary>
+
+- Specific therapy = methylene blue (act as an electron transfer agent)
+- Methylene blue and sulf-Hb causes spectral interference
+</details>
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What can be expected from pulse Oximetry and pO2 measurements?}}$
+</summary>
+
+- **Pulse Ox maybe falsely normal or borderline normal**
+   - MetHb interferes with non-invasive pulse Ox
+- **The pO2 is normal in these patients and therefore calculated/estimated  $O_2$ Saturation is also falsely normal (FN)**
+   - Normal pO2 in a cyanotic patient = possible presence of methemoglobinemia
+   - Co-Ox based $O_2$ Saturation will be lower than that measured by pulse Oximeter
+      - eO2Sat may remain normal
+   - MetHb not stable at room temp; kept on ice, not frozen
+      1. Freezing results in increase [metHb]
+
+
+
+
+### Case Study
+
+- A cyanotic patient with oxygen saturations between 85% to 90% should have co-oximetry analysis performed.
     
-- What are Symptoms?
-    - Cutaneous discoloration (gray), cyanosis, chocolate-brown blood
-        - Symptom severity dependent on **[metHb]** and consequent to hypoxia (diminished O2)
-            - [metHb] >20% → dyspnea, fatigue, weakness, and syncope
-            - [metHb] >50% → dysrhythmias, seizures, metabolic acidosis and coma
-            - [metHb] > 70% → lethal
-- What is the treatment?
-    - Specific therapy = methylene blue (act as an electron transfer agent)
-    - Methylene blue and sulf-Hb causes spectral interference
-- What is involved in evaluation of metHb?
-    - Pulse Ox maybe falsely normal or borderline normal
-        - MetHb interferes with non-invasive pulse Ox
-    - The pO2 is normal in these patients and therefore calculated/estimated  $O_2$ Saturation is also falsely normal (FN)
-        - Normal pO2 in a cyanotic patient = possible presence of methemoglobinemia
-        - Co-Ox based $O_2$ Saturation will be lower than that measured by pulse Oximeter
-            - eO2Sat may remain normal
-        - MetHb not stable at room temp; kept on ice, not frozen
-            1. Freezing results in increase [metHb]
+    See: [DOI:10.1056/NEJMicm1816026 (Otis et al., 2019 n engl j med 381;12)]( 
+    https://universityhealthnetwork-my.sharepoint.com/:b:/g/personal/rajeevan_selvaratnam_uhn_ca/IQAdMnQx7E5KR7YimzxIEZLaAeSPEFCBjjo0glE7BYThjXA?email=Rajeevan.Selvaratnam%40uhn.ca&e=qhfUL2)
 
 
+</details>
