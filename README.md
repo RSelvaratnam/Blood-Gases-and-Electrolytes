@@ -76,7 +76,11 @@ A quick note about reference intervals. You should have a decent idea of the ref
 * pO₂ increases if initial pO₂ is less than that of ambient air (i.e. ~ 150 mmHg, 20kPa), and decreases if initial pO₂ is greater than that of ambient air (the latter case would only, of course, apply if the patient was receiving supplemental oxygen).
 
 </details>
-$\space$
+
+
+
+
+
 <details>
 <summary>
    $\color{darkorange}{\textsf{Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?}}$
@@ -215,7 +219,7 @@ $\space$
 * The sigmoidal nature is due to the fundamental property of allostery & cooperativity underlying hemoglobin binding affinity for oxygen.
 
 <div align="center">
-  <img src="HOD_Curve.png" alt="My Image Description" width="900">
+  <img src="HOD_Curve.png" alt="HOD curve" width="900">
 </div>
 </details>
 
@@ -228,7 +232,7 @@ $\space$
 </summary>
 
 <div align="center">
-  <img src="HOD_Curve2.png" alt="My Image Description" width="900">
+  <img src="HOD_Curve2.png" alt="HOD curve with shifts" width="900">
 </div>
 The figure illustrates that following factors can cause a right shift.
 
@@ -606,6 +610,7 @@ Normal findings for saturation of hemoglobin differ among smokers, nonsmokers, a
 
 
 
+
 ## Methemoglobinemia
 Normal methemoglobin is <1.5% of total Hb
 
@@ -692,4 +697,514 @@ Normal methemoglobin is <1.5% of total Hb
     https://universityhealthnetwork-my.sharepoint.com/:b:/g/personal/rajeevan_selvaratnam_uhn_ca/IQAdMnQx7E5KR7YimzxIEZLaAeSPEFCBjjo0glE7BYThjXA?email=Rajeevan.Selvaratnam%40uhn.ca&e=qhfUL2)
 
 
+</details>
+
+
+## Cyanide
+
+<details><summary>$\color{darkorange}{\textsf{What is it?}}$
+</summary>
+
+- Chemical compound that contains the group C≡N
+- Binds to heme $Fe^{3+}$ of cytochrome oxidase
+
+>[!info] Examples of Exposures:
+> * Iatrogenic cyanide poisoning during use of nitroprusside (used to treat blood pressure, *i.e*. a hypotensive agent)
+> * Most common source of CN poisoning in humans arise smoke inhalation from exposure to fires 
+   
+   - **Bonus**: What is the mechanism of toxicity?
+      
+      * Arrests aerobic cell metabolism. Cyanide reversibly binds to the ferric ions cytochrome oxidase 3 within the mitochondria - halts cellular respiration by blocking the reduction of oxygen to water. Ultimately leads to **histotoxic hypoxia**
+      
+      - See [https://www.ncbi.nlm.nih.gov/books/NBK507796/](https://www.ncbi.nlm.nih.gov/books/NBK507796/)
+
+
+>[!IMPORTANT] Cyanide exposure correlates well with serum lactate levels.
+> Because cyanide inhibits cytochrome oxidase in the mitochondrial electron chain, cells are forced into anaerobic metabolism, resulting in profound lactic acidosis
+
+>[!CAUTION] Often overlooked and treatment is complicated by the potential coexistence of COHb and methemoglobinemia
+
+</details>
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What are the symptoms?}}$
+</summary>
+
+- Symptoms typical of hypoxia
+   - Crosses all biological membranes
+   - Cellular hypoxia symptoms:
+      - Headache, flushing, tachypnea, dizziness, respiratory depression → progression to coma, seizures, heart block and death
+</details>
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What is the treatment?}}$
+</summary>
+
+* **Antidote = hydroxycobalamin** → given without lab testing if suspected for CN poisoning
+
+>[!info] Hydroxocobalamin =  vitamin B12A.
+> * complexes with cyanide, on a mole-for-mole ratio to form cyanocobalamin.
+> * Hydroxocobalamin is a strong red chromophore.
+
+>[!tip] Interference with co-oximetric and colorimetric laboratory measurements has been reported
+
+</details>
+
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{How is CN measured?}}$
+</summary>
+
+
+>[!TIP] Thiocyanate (SCN), is the principle metabolic product of cyanide metabolism.
+* **UHN Method:** Thiocyanate in a protein-free serum filtrate (accomplished using Trichloroacetic acid) reacts with ferric ions to form ferric thiocyanate, an unstable red compound. The intensity of this color is measured at spectrophotometrically.
+
+**Why measure SCN and not CN?** 
+
+* 💡 CN is an unstable molecule and has an elimination half-life of 1 hour in blood in vivo. Therefore determination of CN in blood requires rapid sampling and analysis.  
+
+* Alternatively one can simply measure thiocynate (SCN), which can last upto 7 days (assuming normal kidney function)
+
+* The body detoxifies cyanide using liver enzyme, called rhodanese, which takes a sulfur atom (usually from thiosulfate) and attaches it to the cyanide molecule, converting it into thiocyanate. 
+
+</details>
+
+<details><summary>$\color{darkorange}{\textsf{Where else would SCN be elevated?}}$
+
+</summary>
+1. Tobacco smokers (HCN ingestion)
+2. Treatment with Sodium nitroprusside for cardiovascular conditions
+- **Details:**
+   - After prolonged administration thiocyanate may accumulate, causing nausea, vomiting, sweating, palpitations and acute toxic psychosis.
+   - Toxicity occurs at plasma concentrations > 1.7 mmol/L.  Excessive concentrations may also interfere with thyroid function.
+      - The toxicity of nitroprusside is derived from the reaction of the ferrous ion in the nitroprusside with sulfhydryl-containing compounds in the red blood cell.
+            - Cyanide is produced and then subsequently reduced to thiocyanate in the liver.  Thiocyanate is excreted in the urine with a half-life (t1/2) of 3-4 days.
+   - Plasma thiocyanate levels should be monitored closely on patients with renal impairment.  Recall that elimination is through the kidney.
+
+</details>
+
+   ---
+
+
+
+
+
+# Disorders of Sodium Homeostasis
+
+- Excessive loss, gain, or retention of $Na^+$
+- Excessive loss, gain, or retention of $H_2O$
+
+## Hyponatremia: decreased plasma Na+, <135 mmol/L
+
+<details><summary>$\color{darkorange}{\textsf{What are the symptoms?}}$
+</summary>
+
+- Symptoms are due to changes in osmolality
+   - Nausea/headache
+   - Generalized weakness
+   - Mental confusion (<120 mmol/L)
+   - Seizures
+</details>
+
+
+
+### Pseudo*hypon*atremia
+
+<details><summary>$\color{darkorange}{\textsf{What is it? what are the consequences?}}$
+</summary>
+
+* Method artifact by measurement (e.g. indirect ISE)
+    * Volume displacement A.K.A Electrolyte Exclusion Effect (from high protein and/or lipid content)
+
+   - Affects indirect ISE.
+      - **Uses diluent of fixed ionic strength of the plasma AND Assumes plasma water volume is ~93%**
+      - Not true with hyperlipidemia or hyperproteinemia (e.g. multiple myeloma)
+         - PseudohypoNatremia or PseudohypoKalemia is possible
+      - **Note:** Some analyzers with direct ISE operate in “flame mode” to align with indirect ISE (i.e. correction by multiplying 0.93)
+
+</details>
+
+
+<details><summary>$\color{darkorange}{\textsf{What is the differential of hyponatremia?}}$
+</summary>
+    
+>[!tip] Always consider the plasma osmolality to answer this question and then consider the volemias.
+
+**Hypo-Osmotic (Decreased Plasma Osmolality)**
+
+1. Hypovolemic Hyponatremia (Depletion)
+2. Hypervolemic Hyponatremia (Dilution)
+3. Euvolemic Hyponatremia (Delusion)
+
+**Hyper-Osmotic (Increased Plasma Osmolality)**
+
+1. Translocational Hyponatremia
+   * Extracellular shift of water or Intracellular shift of Na+ to maintain  osmotic balance
+   
+$\textcolor{green}{Let's\ get\ into\ more\ detailed\ questions}$
+
+</details>
+
+
+
+
+
+
+### HyperOsmotic Hyponatremia 
+
+<details><summary>$\color{darkorange}{\textsf{What is it?}}$
+</summary>
+
+* Can think of it as **"Translocational Hyponatremia"**
+
+    * Shift of water from cells (ICF) —> ECF driven by solutes confined in ECF (e.g. increased osmolytes such as glucose or urea in plasma)  
+    * Consider high glucose, hyperglycemia
+        1. **Hyperglycemic Hyperosmolar State (HHS), can lead to coma or death**
+        2. HHS: severe hyperglycemia (Na+ decreased ~1.6 -2.4 mmol/L for every 5.6 mmol/L increase in glucose above 5.6 mmol/L)
+        3. **Patients may be asymptomatic (until [Na+] < 120 mmol/L)**
+
+</details>
+
+
+
+
+
+### Euvolemic hyponatremia
+<details><summary>$\color{darkorange}{\textsf{What are the causes?}}$
+</summary>
+
+- **Primary Polydipsia: Excess $H_2O$ water consumption**
+   - Seen in patients with hypothalamic lesions
+   - Psychogenic polydipsia:
+      - Excessive drinking in psychiatric patients
+   - Polyuria (large volumes of urine production) maintains euvolemic state
+- **Syndrome of inappropriate ADH (SIADH)**
+   - Causes: Sustained ADH release
+      - CNS based: Brain Tumor, infection (E.g. meningitis)
+      - Drugs: anticonvulsants, antiparkinsonian, antipsychotics, antipyretics, antidepressants, ACE Inhibitors
+
+**Remember SAD-PH as mnemonic**
+    1. SIADH
+    2. Adrenal Insufficiency
+    3. Diuretics (e.g. K+ sparing diuretics such as spironolactone)
+    4. Polydipsia
+    5. Hypothyroidism
+</details>
+
+
+
+
+
+### Hypervolemic Hyponatremia
+<details><summary>$\color{darkorange}{\textsf{What are causes?}}$
+</summary>
+
+- **Dilutional Hyponatremia**  → **Fluid overload** (Hypervolemic water gain or retain;) scenarios where ECF is increased, blood volume is decreased
+   1. Cirrhosis
+   2. Heart failure
+      1. CHF: Increased ECF, decreased (effective circulating) blood volume
+   3. Nephrotic Syndrome → hypoalbuminemia
+   4. Advanced Kidney Failure
+      1. Excess water retention > sodium retention → (edema)
+
+</details>
+
+
+
+
+
+
+### Hypovolemic hyponatremia
+
+<details><summary>$\color{darkorange}{\textsf{What are renal and non-renal causes?}}$
+ </summary>
+
+**Depletional Hyponatremia** 
+* When hypovolemic, separate into Renal vs. Non-Renal
+    * **Renal loss (if urine [Na+] > 20 mM)**
+        1. Diuretics
+        2. Nephropathies (PKD)
+        3. Renal tubular acidosis
+        4. Mineralocorticoid def.
+        5. Ketonuria
+    * **Extrarenal (Causes of Volume) loss (Urine [Na+ ]< 20 mM)**
+        1. Vomiting, diarrhea
+
+</details>
+
+
+## Hypernatremia
+
+<details><summary>$\color{darkorange}{\textsf{What are the causes?}}$
+</summary>
+- Almost always hyperOsmolar
+   - Break down into  3 cateogries
+      1. Hypervolemic Hypernatremia
+      2. Hypovolemic Hypernatremia
+            1. Renal vs Non-Renal
+      3. Euvolemic Hypernatremia
+</details>        
+
+
+
+
+
+### Hypervolemic Hypernatremia
+<details><summary>$\color{darkorange}{\textsf{What are causes?}}$
+</summary>
+
+- Scenarios where there is increase in volume and $Na^+$
+   1. Iatrogenic: Typically from administering **hyper**tonic solutions
+   2. Primary hyperAldosteronism (Conn’s syndrome) from tumor or hyperplasia
+</details>
+
+
+
+
+
+
+### Hypovolemic Hypernatremia
+<details><summary>$\color{darkorange}{\textsf{What are Renal vs Non-Renal causes?}}$
+</summary>
+
+- More water loss than $Na^+$ sodium loss
+   - Renal losses:
+      - Renal disease or diuretics (Urine [Na+] > 20 mmol/L)
+   - Extrarenal losses:
+      - Sweat, stool, fluid shifts after burns or surgery
+</details>
+
+
+
+
+
+
+### Euvolemic Hypernatremia
+
+<details><summary>$\color{darkorange}{\textsf{What are causes?}}$
+</summary>
+
+1. Hypodipsia: decreased water intake (e.g. hypothalamic lesion)
+2. Diabetes Insipidus
+   - **What are the two types of DI?**
+      1. Central DI
+            - As in ADH deficiency is due to decreased secretion from the brain (*e.g.,* inhibition by tumor, post-neurosurgery gone wrong, or head trauma).
+      2. Nephrogenic DI
+            - Kidneys not able to provide the receptor for ADH to act on, or other downstream players that are non-functional.  This can be due to a variety of nephropathies including ADPKD, drug induced nephrotoxicity, or mutations of various proteins along the signalling cascade involving AVPR2 (**arginine vasopressin receptor 2)**.  For example, patients with nephrogenic DI are found to have mutations in aquarporin-2 or AVPR2.
+</details>
+
+
+
+### Sodium Disorder Summary
+<div align="center">
+  <img src="sodium_summary.png" alt="summary of sodium disorders" width="900">
+</div>
+</details>
+
+
+
+
+
+
+# Potassium
+
+<details><summary>$\color{darkorange}{\textsf{Serum or Plasma Potassium Higher?}}$
+</summary>
+
+* Serum
+   - During coagulation (clotting), $K^+$ is released from platelets as they aggregate and degranulate
+
+</details>
+
+
+
+
+
+### Hyperkalemia
+
+<details><summary>$\color{darkorange}{\textsf{What are symptoms of Hyperkalemia?}}$
+</summary>
+
+- Muscle weakness/pain/cramps
+- Nausea
+- Chest pain/arrhythmia → cardiac arrest
+
+</details>
+
+<details><summary>$\color{darkorange}{\textsf{What are Preanalytical causes of HYPERkalemia?}}$
+</summary>
+
+1. **Excessive fist clenching**
+   - Release of K+ from muscle cells
+2. **Prolonged tourniquet**
+   - Leakage of intravascular fluid→ hemoConcentration + RBC lysis
+3. **Traumatic or Improper venipuncture leading to hemolysis**
+   1. Large-gauge (small bore diameter) needles
+   2. Use of syringe and needle rather than evacuated tube collection systems
+      (notably applying excessive force with syringe draws)
+   3. Sampling blood via IV catheter
+4. **Excessive vigorous tube inversion**
+5. **Delayed separation and/or Improper specimen processing**
+   1. Poor barrier formation in gel tubes
+   2. **Chilling whole blood (i.e.) > 2hrs**
+      - Inhibits Na/K Pump (normally pumps K+ into cells)
+      - Familial pseudohyperkalemia - leaky red blood cell leading to increased K+ in ECF at room temperature
+   3. Excessive centrifugation or recentrifugation
+
+6. **Carry over from EDTA (Lavender) or K-Oxalate (grey-top) tubes** → improper order of draw
+   - Pour over from EDTA tube or using K-Oxalate tube
+7. **Incomplete clotting leading to Microfibrins that cause erroneous aspiration**
+8. **IV line draw (Potassium containing IV fluids)**
+
+*References*
+1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4206178/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4206178/)
+2. Andolfo I, Russo R, Manna F et al. Functional characterization of novel ABCB6 mutations and their clinical implications in familial pseudohyperkalemia. Haematologica 2016; 101: 909-17.
+3. Lukens M, deMare A, Kerbert-Dreteler M et al. Leaky cell syndrome: a rare cause of pseudohyperkalemia. Ann Clin Biochem 2012; 49: 97-100.
+</details> 
+
+
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What patient factors can underlie hyperkalemia?}}$
+</summary>
+
+1. **Thrombocytosis (high platelets)**
+   - Platelets release $K^+$ during clotting
+      - pseudohyperkalemia when Serum K+ elevated and Plasma K+ is not.
+            - Use and rely on plasma sample
+2. **Leukocytosis**
+   1. **Chronic Lymphocytic Leukemia, Acute Leukemia**
+      - Reverse Pseudohyperkalemia notable; **plasma $K^+$  is elevated** and Serum $K^+$ is not.
+      * Leukemic leukocytes are more fragile & susceptible to lysis 
+         - **Increased sensitivity to heparin-mediated** cell membrane damage during processing and centrifugation
+            - Compounded by pneumatic transport systems which induces additonal mechanical disruption/jostling to cells.
+            
+      > Use and rely on serum samples
+   
+   2. **Other reason for leukocytosis (other WBC neoplasmas)**
+   
+3. **Decreased urinary excretion** (See Kidney Didactic)
+   1. Renal failure – decreased filtration, 
+   2. Mineralocorticoid Def. → Hypoaldosteronism
+      - Decrease [aldosterone] or decreased response to aldosterone
+      - Aldosterone increases Na+ reabsorption in exchange for K+ and H+.
+            
+4. **Redistribution**
+   1. Cellular breakdown (Pseudohyperkalemia – cell lysis)
+      - Tumor lysis after chemotherapy
+      - Crush injuries/trauma/massive tissue hypoxia
+      - Hemolytic anemias/spherocytosis
+         - **Hemolytic anemias = RBCs are destroyed faster than they’re produced**.
+         - e.g of Hemolytic anemia is sickle cell disease (SCD) 
+            - Renal failure is also a complication of SCD, and may affect excretion  
+   2. Insulin deficiency/resistance
+      - Insulin promotes dietary K+ into cells
+   3. Metabolic Acidosis
+      - RTA type 4
+5. **Medications**:
+   * **Beta‑blockers** reduce the effects of epinephrine (adrenaline).  They do this by blocking β‑adrenergic receptors on the heart and blood vessels. They also Block β‑receptors in the kidneys, this leads to:
+
+      * ↓ renin release
+
+      * ↓ RAAS activation
+
+      * ↓ blood pressure
+   * **Diuretics:**
+      * K+ sparing diuretics (MR receptor antagonists): decrease pH
+      Hyperkalemia --> Metabolic Acidosis
+            
+6. **Increased Intake of K+ (rare)**
+7. **Blood transfusion**
+8. **Familial Pseudohyperkalemia**
+9. **Acid-Base Disturbance**
+   
+
+</details>
+
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{Is HYPERkalemia associated with Acidosis or Alkalosis?}}$
+</summary>
+
+
+<div align="center">
+  <img src="K_acid_base.png" alt="K+ association with acid/base status" width="600">
+</div>
+
+Hyperkalemia is associated with acidosis.
+**Hypokalemia** is associated with **alkalosis**.
+
+</details>
+
+
+
+
+
+
+
+### Hypokalemia: plasma [K+] < 3.5 mmol/L
+
+<details><summary>$\color{darkorange}{\textsf{What are the symptoms?}}$
+</summary>
+
+- Weakness.
+- Fatigue.
+- **Muscle cramps** or twitching.
+- Constipation.
+- Arrhythmia (abnormal heart rhythms)
+
+</details>
+
+
+
+
+
+
+<details><summary>$\color{darkorange}{\textsf{What are the Causes?}}$
+</summary>
+
+- Most common cause are diuretics (e.g.thiazide causes) and GI loss
+- Break it down into 3 categories
+   1. **Increased urinary (renal) or GI loss**
+      - Vomiting resulting in acid loss from stomach alkalosis
+      - Renal loss:
+         - hyperaldosteronism (e.g. adrenal adenomas)
+         - RTA type 1 & 2
+         - Diuretics
+         - glucocorticoid xs
+            
+      - ExtraRenal Loss:
+         - GI Loss: Vomiting or Diarrhea
+            - Vomiting results in acid loss from stomach —> alkalosis
+               - Recall Alkalosis and hypokalemia versus Acidosis and Hyperkalemia
+         - Excessive sweating
+
+   2. **Shift of K+ from ECF to ICF**
+         1. Insulin excess (excess treatment with insulin or insulinoma)
+         2. Pseudohypokalemia - increased WBC take up more ECF K+ due to prolonged storage; Rapid separation is necessary and avoid prolonged storage.
+         3. Catecholamine Excess or Beta-Adrenergic excess (Epinephrine)
+
+   3. **Decreased Intake (Rare)**
+
+>[!tip] Additionally consider other algorithsm
+> 1. Consider also use of Tietz Texbook Algorithm 
+> 2. Consider also a recently published workup for hypokalemia in: JAMA 2021 Mar 23;325(12):1216-1217. doi: 10.1001/jama.2020.17672
+><div align="center">
+>  <img src="HypoK_workup.png" alt="Workup for Hypokalemia" width="900">
+></div>
+
+* Figure above is from: JAMA 2021 Mar 23;325(12):1216-1217. doi: 10.1001/jama.2020.17672
 </details>
