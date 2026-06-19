@@ -1,4 +1,15 @@
-# Essential Questions in Blood Gases and Electrolytes
+# Essential Questions in Blood Gases, Electrolytes Disorders & Acid-Base Balance
+
+
+> **Rajeevan Selvaratnam, PhD, NRCC, DABCC, FCACB, FAACC
+Clinical Biochemist - University Health Network
+Assistant Professor - University of Toronto**
+
+>Tutorial for Clinical Chemistry Fellows
+June 23, 2026; 11:00 – 13:00h
+> 
+
+
 
 ## Preamble
 
@@ -1136,6 +1147,8 @@ $\textcolor{green}{Let's\ get\ into\ more\ detailed\ questions}$
 
 
 
+
+
 <details><summary>$\color{darkorange}{\textsf{Is HYPERkalemia associated with Acidosis or Alkalosis?}}$
 </summary>
 
@@ -1208,3 +1221,228 @@ Hyperkalemia is associated with acidosis.
 
 * Figure above is from: JAMA 2021 Mar 23;325(12):1216-1217. doi: 10.1001/jama.2020.17672
 </details>
+
+
+
+
+## Acid-Base Disturbances
+
+This section picks up on the note from the [Reference Intervals](#reference-intervals) section above — a closer look at acid/base disturbances themselves, building on the $pCO_2$ and $HCO_3^-$ concepts already covered for blood gases.
+
+
+
+<details><summary>$\color{darkorange}{\textsf{How do diuretics affect acid-base balance?}}$
+
+</summary>
+
+$\textcolor{blue}{1.\ Thiazides}$ (NCC inhibitor): Increase pH 
+   * Chloride Wasting --> Metabolic (hypochloremic) Alkalosis
+
+$\textcolor{blue}{2.\ Loop diuretics}$ (NKCC inhibitors): increase pH
+   *  Chloride Wasting --> Metabolic (hypochloremic) Alkalosis
+
+$\textcolor{red}{3.\ K+ sparing diuretics}$ (MR receptor antagonists): decrease pH
+   * Hyperkalemia --> Metabolic Acidosis
+
+$\textcolor{red}{4.\ Carbonic Anhydrase inhibitors:}$ decrease pH
+   * Reduced production of HCO3 --> Metabolic Acidosis
+
+<div align="center">
+  <img src="Diuretics.png" alt="Diuretics and Kidney" width="400">
+</div>
+Above picture is from Reference: Earnst, et al, 2009 n engl j med 361;22 
+
+</details>
+
+
+
+
+
+### GI Tract and Acid-Base
+
+<details><summary>$\color{darkorange}{\textsf{How does the GI tract lead to acid-base disturbances?}}$
+</summary>
+
+- Vomiting → loss of gastric acid ($H^+$) → more basic environment → **alkalosis**
+- Diarrhea → loss of base (bicarbonate-rich fluid) → more acidic environment → **acidosis**
+
+</details>
+
+### Lungs and Kidneys: Primary Disturbances and Compensation
+
+<details><summary>$\color{darkorange}{\textsf{How do the lungs and kidneys cause acid-base disturbances?}}$
+</summary>
+
+- Lungs cause disturbances via $CO_2$
+   - $CO_2$ increases in **Respiratory Acidosis**
+   - $CO_2$ decreases in **Respiratory Alkalosis**
+- Kidneys cause disturbances via $HCO_3^-$
+   - $HCO_3^-$ increase (by renal retention) causes **Metabolic Alkalosis**
+   - $HCO_3^-$ decrease (by renal excretion) causes **Metabolic Acidosis**
+- If the disturbance is **respiratory**, the **kidneys** will compensate
+- If the disturbance is **renal (metabolic)**, the **lungs** will compensate
+
+</details>
+
+<details><summary>$\color{darkorange}{\textsf{How does compensation actually work?}}$
+</summary>
+
+- **Metabolic Alkalosis:** $HCO_3^-$ increases, lungs retain $CO_2$
+- **Metabolic Acidosis:** $HCO_3^-$ decreases, lungs expel $CO_2$
+   - Lungs compensate for metabolic disturbances by doing to $CO_2$ whatever the kidneys did to $HCO_3^-$
+- **Respiratory Alkalosis:** $CO_2$ decreases, so the kidneys decrease $HCO_3^-$
+   - Kidneys compensate for respiratory disturbances by doing to $HCO_3^-$ whatever the lungs did to $CO_2$
+
+</details>
+
+
+
+
+
+### The Bicarbonate Buffer Equilibrium
+
+$$H^+ + HCO_3^- \rightleftharpoons H_2CO_3 \rightleftharpoons CO_2 + H_2O$$
+
+$$pH = 6.1 + \log\frac{[HCO_3^-]}{[CO_2]}$$
+
+This Henderson-Hasselbalch relationship underlies each of the four primary disturbances below — shifting the equilibrium left or right (via $CO_2$ or $HCO_3^-$) changes $[H^+]$, and therefore pH.
+
+
+
+
+
+## Respiratory Acidosis
+
+<details><summary>$\color{darkorange}{\textsf{What is Respiratory Acidosis, and what causes it?}}$
+</summary>
+
+- Decreased expiration of $CO_2$ (buildup of $CO_2$; hypercapnia)
+- Acidosis from increased $CO_2$; equilibrium shifts to produce $H^+$ (Le Chatelier's Principle)
+
+$$H^+ + \textcolor{red}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \textcolor{red}{CO_2} + H_2O$$
+
+- Compensation: kidneys help buffer the $H^+$ by retaining $HCO_3^-$
+- **Causes:**
+   1. Trouble expiring $CO_2$ due to obstruction
+      - *e.g.,* foreign object, tumor, or obstructive lung disease
+   2. Damage to the lungs or chest wall
+      - *e.g.,* pneumothorax (collapsed lung)
+   3. Problems with the muscles of respiration or their neural input
+      - *e.g.,* myasthenia gravis
+- **Summary:** ↑$CO_2$, ↑$HCO_3^-$, ↓pH
+
+</details>
+
+
+
+
+
+
+## Respiratory Alkalosis
+
+<details><summary>$\color{darkorange}{\textsf{What is Respiratory Alkalosis, and what causes it?}}$
+</summary>
+
+- Alkalosis from decreased $CO_2$, so equilibrium shifts away from $H^+$ to create more $CO_2$
+
+$$ H^+  + \textcolor{blue}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \textcolor{blue}{CO_2} + H_2O$$
+
+
+- Compensation: kidneys can help excrete $HCO_3^-$
+- **Causes:**
+   - Breathing too fast (hyperventilation)
+   - Hypoxemia (drive for more oxygen) from high altitude or severe anemia
+   - Drug induced (*e.g.,* salicylate toxicity — also leads to metabolic acidosis)
+   - Pain/anxiety induced
+   - Stroke induced
+   - Pulmonary pathology (*e.g.,* pulmonary embolism)
+- **Summary:** ↓$CO_2$, ↓$HCO_3^-$, ↑pH
+
+</details>
+
+
+
+
+
+## Metabolic Alkalosis
+
+<details><summary>$\color{darkorange}{\textsf{What is Metabolic Alkalosis, and what causes it?}}$
+</summary>
+
+- Alkalosis from increased $[HCO_3^-]$ or decreased $[H^+]$
+- Equilibrium shifts away from $H^+$ to create more $CO_2$
+
+$$H^+ + \textcolor{red}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \textcolor{red}{CO_2} + H_2O$$
+
+
+- Compensation: lungs can help retain $CO_2$
+- **Causes:**
+   - Increased $[HCO_3^-]$ — *e.g.,* iatrogenic bicarbonate infusion, hemodialysis patients
+   - Renal loss of $K^+$
+      - *e.g.,* Hyperaldosteronism
+         - Aldoste**R**o**N**e causes **R**eabsorption of $Na^+$ and Secretion of $K^+$
+      - Also associated with chloride loss into the urine, linked to decreased $NaCl^-$ co-transporters
+         - i.e., hypochloremia, which can present with metabolic alkalosis (as in Cystic Fibrosis)
+   - Renal loss of $H^+$ (*e.g.,* by $H^+$ ATPase)
+   - Drugs
+      - *e.g.,* diuretic-induced hypokalemia
+- **Summary:** ↑$CO_2$, ↑$HCO_3^-$, ↑pH
+
+</details>
+
+
+
+
+## Metabolic Acidosis
+
+<details><summary>$\color{darkorange}{\textsf{What is Metabolic Acidosis, and what causes it?}}$
+</summary>
+
+- Acidosis from decreased $[HCO_3^-]$ or increased $[H+]$
+- Equilibrium shifts to $H^+$
+
+$$H^+ + \textcolor{blue}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \textcolor{blue}{CO_2} + H_2O$$
+
+
+- Compensation: Lungs can help expire away $CO_2$
+
+- **Summary:** ↓$CO_2$, ↓$HCO_3^-$, ↓pH
+
+**Causes:**
+- Increased acids $[H^+]$
+   - Anion Gap (increased) Acidosis
+      - Look at the MUDPILES mnemonic for differential causes
+- Decreased $[HCO_3^-]$
+   - Diarrhea
+   - Renal loss (*e.g.,* diuretics or Renal Tubular Acidosis → $HCO_3^-$ wasting)
+   - Normal anion gap acidosis
+
+</details>
+
+## Summary:
+**Fill in the table below:**
+| Acid/Base Disorder | Respiratory Acidosis | Respiratory Alkalosis | Metabolic Alkalosis | Metabolic Acidosis |
+|---|---|---|---|---|
+| **Compensating mechanism** | Kidney reabsorbs HCO<sub>3</sub><sup>-</sup> to buffer | | | |
+| **Changes** | ↑ pCO<sub>2</sub><br>↑ HCO<sub>3</sub><sup>-</sup><br>↓ pH | | | |
+
+<details><summary>$\color{darkorange}{\textsf{Answers:}}$
+</summary>
+
+| Acid/Base Disorder | Respiratory Acidosis | Respiratory Alkalosis | Metabolic Alkalosis | Metabolic Acidosis |
+|---|---|---|---|---|
+| **Compensating mechanism** | Kidney reabsorbs HCO<sub>3</sub><sup>-</sup> to buffer | Kidney excretes HCO<sub>3</sub><sup>-</sup> to buffer | Lung retains CO<sub>2</sub> to buffer | Lung removes CO<sub>2</sub> to buffer |
+| **Changes** | ↑ pCO<sub>2</sub><br>↑ HCO<sub>3</sub><sup>-</sup><br>↓ pH | ↓ pCO<sub>2</sub><br>↓ HCO<sub>3</sub><sup>-</sup><br>↑ pH | ↑ pCO<sub>2</sub><br>↑ HCO<sub>3</sub><sup>-</sup><br>↑ pH | ↓ pCO<sub>2</sub><br>↓ HCO<sub>3</sub><sup>-</sup><br>↓ pH |
+
+</details>
+
+
+#### Select Reading Materials, If of Interest to Trainees:
+
+• PMID: 36306179 - pseudohypokalemia
+
+• PMID: 31532963 - acquired methemoglobinemia
+
+• PMID: 33674840 - pseudohyperkalemia
+
+• PMID: 33263118 - hypokalemia + licorice 
