@@ -1,4 +1,4 @@
-# Essential Questions in Blood Gases and Electrolytes
+# Essential Questions in Blood Gases, Electrolytes Disorders & Acid-Base Balance
 
 
 > **Rajeevan Selvaratnam, PhD, NRCC, DABCC, FCACB, FAACC
