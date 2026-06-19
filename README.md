@@ -1,5 +1,6 @@
 # Essential Questions in Blood Gases, Electrolytes Disorders & Acid-Base Balance
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRSelvaratnam%2FBlood-Gases-and-Electrolytes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > **Rajeevan Selvaratnam, PhD, NRCC, DABCC, FCACB, FAACC**
 Clinical Biochemist - University Health Network
@@ -809,12 +810,12 @@ Normal methemoglobin is <1.5% of total Hb
 
 
 
-# Disorders of Sodium Homeostasis
+## Disorders of Sodium Homeostasis
 
 - Excessive loss, gain, or retention of $Na^+$
 - Excessive loss, gain, or retention of $H_2O$
 
-## Hyponatremia: decreased plasma Na+, <135 mmol/L
+### Hyponatremia: decreased plasma Na+, <135 mmol/L
 
 <details><summary>$\color{darkorange}{\textsf{What are the symptoms?}}$
 </summary>
@@ -1026,7 +1027,7 @@ $\textcolor{green}{Let's\ get\ into\ more\ detailed\ questions}$
 
 
 
-# Potassium
+## Disorders of Potassium Homeostasis 
 
 <details><summary>$\color{darkorange}{\textsf{Serum or Plasma Potassium Higher?}}$
 </summary>
@@ -1447,4 +1448,11 @@ $$H^+ + \textcolor{blue}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons 
 
 • PMID: 33674840 - pseudohyperkalemia
 
-• PMID: 33263118 - hypokalemia + licorice 
+• PMID: 33263118 - hypokalemia + licorice
+
+* PMID: 15514101 - Methemoglobinemia  
+
+
+
+## Feedback
+Please email me any typos/comments/feedback you may have.
