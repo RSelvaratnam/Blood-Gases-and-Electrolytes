@@ -1,11 +1,11 @@
 # Essential Questions in Blood Gases, Electrolytes Disorders & Acid-Base Balance
 
 
-> **Rajeevan Selvaratnam, PhD, NRCC, DABCC, FCACB, FAACC
+> **Rajeevan Selvaratnam, PhD, NRCC, DABCC, FCACB, FAACC**
 Clinical Biochemist - University Health Network
 Assistant Professor - University of Toronto**
 
->Tutorial for Clinical Chemistry Fellows
+>**Tutorial for Clinical Chemistry Fellows**
 June 23, 2026; 11:00 – 13:00h
 > 
 
@@ -688,12 +688,14 @@ Normal methemoglobin is <1.5% of total Hb
 <details><summary>$\color{darkorange}{\textsf{What can be expected from pulse Oximetry and pO2 measurements?}}$
 </summary>
 
-- **Pulse Ox maybe falsely normal or borderline normal**
+- **Pulse Ox maybe falsely normal or near borderline normal**
    - MetHb interferes with non-invasive pulse Ox
 - **The pO2 is normal in these patients and therefore calculated/estimated  $O_2$ Saturation is also falsely normal (FN)**
    - Normal pO2 in a cyanotic patient = possible presence of methemoglobinemia
    - Co-Ox based $O_2$ Saturation will be lower than that measured by pulse Oximeter
       - eO2Sat may remain normal
+      - pulse oximetry trends toward 85%, underestimating actual oxygen saturation
+   
    - MetHb not stable at room temp; kept on ice, not frozen
       1. Freezing results in increase [metHb]
 
