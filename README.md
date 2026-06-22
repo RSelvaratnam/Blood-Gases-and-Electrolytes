@@ -641,9 +641,11 @@ Normal methemoglobin is <1.5% of total Hb
 <details><summary>$\color{darkorange}{\textsf{What are Causes of MetHb?}}$
 </summary>
 
+
+
 - **Acquired**:
    1. Caused by various drugs and chemicals (oxides of nitrogen, other oxidant combustion products make smoke inhalation)
-      1. Drugs include for example dapsone or rasburicase
+      1. Drugs (oxidizing agents) include for example dapsone, lidocaine, nitroprusside, benzocaine,  or rasburicase (in G6PD deficient patients)
 - **Genetic(Congenital)**:
    1. *NADH-MetHb reductase deficiency also called* Cytochrome b5 reductase (CYB5R)
       - Enzyme responsible for reducing Hb
@@ -667,6 +669,12 @@ Normal methemoglobin is <1.5% of total Hb
       - [metHb] >20% → dyspnea, fatigue, weakness, and syncope
       - [metHb] >50% → dysrhythmias, seizures, metabolic acidosis and coma
       - [metHb] > 70% → lethal
+
+>[!warning] Methemoglobinemia may be misinterprested as CO poisoning because the presenting symptoms are simlar[1].
+> * Co-Ox values, blood olor, and response to supplemental $O_2$ therapy aid in the differential diagnosis[1].
+>
+> Reference: 
+> 1. Clinical Chemistry 51:2 434-444 (2005), Haymond et al.
 </details>
 
 
@@ -694,7 +702,6 @@ Normal methemoglobin is <1.5% of total Hb
    - Co-Ox based $O_2$ Saturation will be lower than that measured by pulse Oximeter
       - eO2Sat may remain normal
       - pulse oximetry trends toward 85%, underestimating actual oxygen saturation
-   
    - MetHb not stable at room temp; kept on ice, not frozen
       1. Freezing results in increase [metHb]
 
