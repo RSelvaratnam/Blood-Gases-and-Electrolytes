@@ -2,7 +2,7 @@
 
 > **Rajeevan Selvaratnam, PhD, NRCC, DABCC, FCACB, FAACC**
 Clinical Biochemist - University Health Network
-Assistant Professor - University of Toronto**
+Assistant Professor - University of Toronto
 
 >**Tutorial for Clinical Chemistry Fellows**
 June 23, 2026; 11:00 – 13:00h
@@ -17,6 +17,9 @@ This book is written based on a culmination of questions from myself, students, 
 Note: If you’re using the PDF version of this book, it will not be updated frequently or be current as the online version.
 
 ---
+
+[TOC]
+
 
 ## Reference Intervals
 
@@ -66,9 +69,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </summary>
 
 * CO₂ makes up 0.0407% of atmospheric air
-* Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{blue}{0.309\ mmHg}$
+* Therefore, using Dalton's Law, pCO₂ component of the air = 760 mm Hg X 0.0407% = $\textcolor{lightblue}{0.309\ mmHg}$
 * pCO₂ in the arterial blood $\textcolor{red}{~40\ mmHg}$
-* Thus **air leads to artificial $\textcolor{blue}{decrease\ in\ blood\ pCO₂}$** (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
+* Thus **air leads to artificial $\textcolor{lightblue}{decrease\ in\ blood\ pCO₂}$** (movement of gas from area of high concentration (blood) to area of low concentration (*i.e.*, exposed air))
 * pH will increase (blood pH is partially a function of pCO₂)
 
 </details>
@@ -127,9 +130,15 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 
 </details>
+
+
+
+
 <details>
+
 <summary>
     $\color{darkorange}{\textsf{Should samples be transported on ice? Or room temperature?}}$
+
 </summary>
 
 * Ice increases oxygen permeability in plastic tubes, leading to artificial increase in pO2.
@@ -222,9 +231,9 @@ A quick note about reference intervals. You should have a decent idea of the ref
    * Saturation is on the y-axis,which is looking simply at the ratio of oxygenated hemoglobin to the sum of all hemoglobin species (oxygenated + deoxygenated). The curve is modelled as sigmoidal, but the sigmoidal nature is hard to appreciate in the real world figure illustrated here. See subsequent question and figure for that.  
 
    > **Important points to note:** 
-      * Once arterial pO2 reaches ~60 mm Hg (red line in the figure), the curve begins to plateau (~getting nearly flat) indicating much lower levels of change in saturation above this point.
-      * Thus, arterial pO2 ≥ 60 mm Hg is usually considered adequate.
-      * But at < 60 mm Hg, the curve is very steep and small changes in arterial pO2 lead to greater reductions %saturation.
+   >   * Once arterial pO2 reaches ~60 mm Hg (red line in the figure), the curve begins to plateau (~getting nearly flat) indicating much lower levels of change in saturation above this point.
+   >   * Thus, arterial pO2 ≥ 60 mm Hg is usually considered adequate.
+   >   * But at < 60 mm Hg, the curve is very steep and small changes in arterial pO2 lead to greater reductions %saturation.
 
 * The sigmoidal nature is due to the fundamental property of allostery & cooperativity underlying hemoglobin binding affinity for oxygen.
 
@@ -671,7 +680,7 @@ Normal methemoglobin is <1.5% of total Hb
       - [metHb] > 70% → lethal
 
 >[!warning] Methemoglobinemia may be misinterprested as CO poisoning because the presenting symptoms are simlar[1].
-> * Co-Ox values, blood olor, and response to supplemental $O_2$ therapy aid in the differential diagnosis[1].
+> * Co-Ox values, blood color, and response to supplemental $O_2$ therapy aid in the differential diagnosis[1].
 >
 > Reference: 
 > 1. Clinical Chemistry 51:2 434-444 (2005), Haymond et al.
@@ -798,6 +807,7 @@ Normal methemoglobin is <1.5% of total Hb
 <details><summary>$\color{darkorange}{\textsf{Where else would SCN be elevated?}}$
 
 </summary>
+
 1. Tobacco smokers (HCN ingestion)
 2. Treatment with Sodium nitroprusside for cardiovascular conditions
 - **Details:**
@@ -1243,16 +1253,16 @@ This section picks up on the note from the [Reference Intervals](#reference-inte
 
 </summary>
 
-$\textcolor{blue}{1.\ Thiazides}$ (NCC inhibitor): Increase pH 
+$\textcolor{lightblue}{1.\ Thiazides}$ (NCC inhibitor): Increase pH 
    * Chloride Wasting --> Metabolic (hypochloremic) Alkalosis
 
-$\textcolor{blue}{2.\ Loop diuretics}$ (NKCC inhibitors): increase pH
+$\textcolor{lightblue}{2.\ Loop\ diuretics}$ (NKCC inhibitors): increase pH
    *  Chloride Wasting --> Metabolic (hypochloremic) Alkalosis
 
-$\textcolor{red}{3.\ K+ sparing diuretics}$ (MR receptor antagonists): decrease pH
+$\textcolor{red}{3.\ K+\ sparing\ diuretics}$ (MR receptor antagonists): decrease pH
    * Hyperkalemia --> Metabolic Acidosis
 
-$\textcolor{red}{4.\ Carbonic Anhydrase inhibitors:}$ decrease pH
+$\textcolor{red}{4.\ Carbonic\ Anhydrase\ inhibitors:}$ decrease pH
    * Reduced production of HCO3 --> Metabolic Acidosis
 
 <div align="center">
@@ -1409,7 +1419,7 @@ $$H^+ + \textcolor{red}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \
 - Acidosis from decreased $[HCO_3^-]$ or increased $[H+]$
 - Equilibrium shifts to $H^+$
 
-$$H^+ + \textcolor{blue}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \textcolor{blue}{CO_2} + H_2O$$
+$$H^+ + \textcolor{lightblue}{HCO_3^-} \rightleftharpoons H_2CO_3 \rightleftharpoons \textcolor{lightblue}{CO_2} + H_2O$$
 
 
 - Compensation: Lungs can help expire away $CO_2$
