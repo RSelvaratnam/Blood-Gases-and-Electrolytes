@@ -12,10 +12,11 @@ June 23, 2026; 11:00 – 13:00h
 
 ## Preamble
 
-This book is written based on a culmination of questions from myself, students, trainees, and colleagues. The purpose of this question based approach is to enable students and trainees to evaluate their own understanding and grasp of materials.
+This compendium features a curated collection of questions sourced from my own practice and experience, as well as from colleagues, trainees and fomer students. This question-based approach is designed to empower learners to actively assess their own grasp of blood gases, electrolyte disorders, and acid-base balance.  There is much more that can be asked, but I attempt place here what can be covered within ~2-hr time frame, which is the time alloted for clinical chemistry tutorial session that I lead.  As this is somewhat a living document, please email me any typos, comments, or feedback you may have.
 
-Note: If you’re using the PDF version of this book, it will not be updated frequently or be current as the online version.
+Note: If you’re using the PDF version of this compendium, it will not be updated frequently or be current as the online version.
 
+Last updated: Jun 25, 2026
 ---
 
 [TOC]
@@ -973,6 +974,7 @@ $\textcolor{green}{Let's\ get\ into\ more\ detailed\ questions}$
 
 <details><summary>$\color{darkorange}{\textsf{What are the causes?}}$
 </summary>
+
 - Almost always hyperOsmolar
    - Break down into  3 cateogries
       1. Hypervolemic Hypernatremia
