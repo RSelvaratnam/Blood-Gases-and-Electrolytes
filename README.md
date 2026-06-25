@@ -9,6 +9,9 @@ June 23, 2026; 11:00 – 13:00h
 > 
 
 
+## Table of Contents:
+[TOC]
+
 
 ## Preamble
 
@@ -18,10 +21,8 @@ Note: If you’re using the PDF version of this compendium, it will not be updat
 
 Last updated: Jun 25, 2026
 
+
 ---
-
-[TOC]
-
 
 ## Reference Intervals
 
@@ -47,8 +48,8 @@ A quick note about reference intervals. You should have a decent idea of the ref
 ## Preanalytical Errors & Considerations
 
 <details>
-<summary> 
-   $\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list at least 5.}}$ 
+<summary>$\color{darkorange}{\textsf{What are some preanalytical errors or concerns with blood gas measurements? Try to list at least 5.}}$ 
+
 </summary>
 
 1. Mislabelling
@@ -66,8 +67,8 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary> 
-   $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pCO₂? Why?}}$
+<summary> $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pCO₂? Why?}}$
+
 </summary>
 
 * CO₂ makes up 0.0407% of atmospheric air
@@ -79,8 +80,8 @@ A quick note about reference intervals. You should have a decent idea of the ref
 </details>
 
 <details>
-<summary>
-    $\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pO₂? Why?}}$
+<summary>$\color{darkorange}{\textsf{Does air exposure lead to decreased or increased pO₂? Why?}}$
+
 </summary>
 
 * O₂ makes up 20.946% of atmospheric air
@@ -97,8 +98,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 
 <details>
-<summary>
-   $\color{darkorange}{\textsf{Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?}}$
+<summary>$\color{darkorange}{\textsf{Why is insufficient blood volume collection (e.g. underfilling) a pre-analytical concern?}}$
 </summary>
 
 1. Under-filling alters the intended Anticoagulant:Blood ratio
@@ -109,9 +109,11 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 </details>
 
+
+
+
 <details>
-<summary>
-   $\color{darkorange}{\textsf{What would happen if blood gas analysis were delayed?}}$
+<summary>$\color{darkorange}{\textsf{What would happen if blood gas analysis were delayed?}}$
 </summary>
 
 1. Consumption of O₂ by cells; Red blood cells use little or no O₂, but white blood cells do consume O₂ [1,2].
@@ -138,8 +140,7 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 <details>
 
-<summary>
-    $\color{darkorange}{\textsf{Should samples be transported on ice? Or room temperature?}}$
+<summary>$\color{darkorange}{\textsf{Should samples be transported on ice? Or room temperature?}}$
 
 </summary>
 
@@ -163,10 +164,15 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 </details>
 
+
+
+
+
 <details>
-<summary><strong>
-   $\color{darkorange}{\textsf{Can you use a pneumatic transport system (PTS) to transfer the blood gas specimens to the central or core laboratory?}}$
-</strong></summary>
+
+<summary>$\color{darkorange}{\textsf{Can you use a pneumatic transport system (PTS) to transfer the blood gas specimens to the central or core laboratory?}}$
+
+</summary>
 
 * Depends on the stability of the pneumatic transport system (PTS).
 * In some cases, experience and data suggests most PTS show no significant effect on pH and pCO2 [1]. However, pO2 can be affected if the sample is contaminated with even tiny amounts of air.
@@ -178,9 +184,13 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 </details>
 
+
+
+
+
+
 <details>
-<summary>
-   $\color{darkorange}{\textsf{Can vacutainers (evacuated tubes) be of use in blood gas measurements?}}$
+<summary>$\color{darkorange}{\textsf{Can vacutainers (evacuated tubes) be of use in blood gas measurements?}}$
 </summary>
 
 * Not for pO2 or Oxygen saturation. General consensus and guidances from Clinical Laboratory Standards Institute recommend arterial blood gas samples be collected in syringes directly.
@@ -193,9 +203,13 @@ A quick note about reference intervals. You should have a decent idea of the ref
 
 </details>
 
+
+
+
+
 <details>
-<summary>
-   $\color{darkorange}{\textsf{Why are clotted specimens rejected?}}$
+<summary>$\color{darkorange}{\textsf{Why are clotted specimens rejected?}}$
+
 </summary>
 
 1. Specimen was likely not handled according to standard process
@@ -364,6 +378,7 @@ $\color{darkorange}{\textsf{How do you determined estimated O₂ saturation, eO�
 
 
 ## $pO_2$
+
 <details><summary>$\color{darkorange}{\textsf{Why measure pO₂?}}$
 </summary>
 
@@ -388,6 +403,7 @@ $\color{darkorange}{\textsf{How do you determined estimated O₂ saturation, eO�
 
 <details><summary>$\color{darkorange}{\textsf{What are 3 variables affecting Total Oxygen Content in blood?}}$
 </summary>
+
 Total arterial oxygen content ($CaO_2$) $ = FO_2Hb \times \beta O_2 \times [total\ Hb]) + \alpha' O_2 \times pO_2$ 
 
 * where $\beta O_2$ is the oxygen binding capacity = 1.39 mL $O_2$ /g Hb.
